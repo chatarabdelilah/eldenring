@@ -1,0 +1,66 @@
+[2026-03-30 20:00:11.624] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\CCW 3.9\modengine2\config.toml
+[2026-03-30 20:00:11.624] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\CCW 3.9\config_eldenring.toml
+[2026-03-30 20:00:11.631] [modengine] [info] Local config loaded
+[2026-03-30 20:00:11.631] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2026-03-30 20:00:11.631] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-03-30 20:00:11.631] [modengine] [info] Main thread ID: 17372
+[2026-03-30 20:00:11.672] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ertransmogrify.dll
+[2026-03-30 20:00:11.672] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ertransmogrify.dll at base address 0x7ffa9c000000 is not a modengine extension
+[2026-03-30 20:00:11.825] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/eldenring_alt_saves.dll
+[2026-03-30 20:00:11.825] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/eldenring_alt_saves.dll at base address 0x7ffa9b4a0000 is not a modengine extension
+[2026-03-30 20:00:11.849] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ErdTools.dll
+[2026-03-30 20:00:11.849] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ErdTools.dll at base address 0x7ffa9bfd0000 is not a modengine extension
+[2026-03-30 20:00:11.884] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ermerchant.dll
+[2026-03-30 20:00:11.884] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ermerchant.dll at base address 0x7ffa9b420000 is not a modengine extension
+[2026-03-30 20:00:11.884] [modengine] [info] Enabling extension base
+[2026-03-30 20:00:11.884] [modengine] [info] Enabled extension base
+[2026-03-30 20:00:11.884] [modengine] [info] Enabling extension mod_loader
+[2026-03-30 20:00:11.884] [modengine] [info] Installing mod location mod
+[2026-03-30 20:00:11.885] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\CCW 3.9\mod
+[2026-03-30 20:00:11.885] [modengine] [info] Enabled extension mod_loader
+[2026-03-30 20:00:12.196] [modengine] [info] Applied 4 hooks
+[2026-03-30 20:00:12.197] [modengine] [info] Starting worker thread
+[2026-03-30 20:52:38.121] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\CCW 3.9\modengine2\config.toml
+[2026-03-30 20:52:38.121] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\CCW 3.9\config_eldenring.toml
+[2026-03-30 20:52:38.122] [modengine] [info] Local config loaded
+[2026-03-30 20:52:38.122] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2026-03-30 20:52:38.122] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-03-30 20:52:38.122] [modengine] [info] Main thread ID: 15268
+[2026-03-30 20:52:38.126] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ertransmogrify.dll
+[2026-03-30 20:52:38.126] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ertransmogrify.dll at base address 0x7ffa9c000000 is not a modengine extension
+[2026-03-30 20:52:38.169] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/eldenring_alt_saves.dll
+[2026-03-30 20:52:38.169] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/eldenring_alt_saves.dll at base address 0x7ffa9b4a0000 is not a modengine extension
+[2026-03-30 20:52:38.170] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ErdTools.dll
+[2026-03-30 20:52:38.170] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ErdTools.dll at base address 0x7ffa9bfd0000 is not a modengine extension
+[2026-03-30 20:52:38.170] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ermerchant.dll
+[2026-03-30 20:52:38.170] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ermerchant.dll at base address 0x7ffa9b420000 is not a modengine extension
+[2026-03-30 20:52:38.171] [modengine] [info] Enabling extension base
+[2026-03-30 20:52:38.171] [modengine] [info] Enabled extension base
+[2026-03-30 20:52:38.171] [modengine] [info] Enabling extension mod_loader
+[2026-03-30 20:52:38.171] [modengine] [info] Installing mod location mod
+[2026-03-30 20:52:38.171] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\CCW 3.9\mod
+[2026-03-30 20:52:38.171] [modengine] [info] Enabled extension mod_loader
+[2026-03-30 20:52:38.239] [modengine] [info] Applied 4 hooks
+[2026-03-30 20:52:38.240] [modengine] [info] Starting worker thread
+[2026-03-30 20:53:13.021] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\CCW 3.9\modengine2\config.toml
+[2026-03-30 20:53:13.022] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\CCW 3.9\config_eldenring.toml
+[2026-03-30 20:53:13.022] [modengine] [info] Local config loaded
+[2026-03-30 20:53:13.022] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2026-03-30 20:53:13.022] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-03-30 20:53:13.022] [modengine] [info] Main thread ID: 22916
+[2026-03-30 20:53:13.026] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ertransmogrify.dll
+[2026-03-30 20:53:13.026] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ertransmogrify.dll at base address 0x7ffacc8c0000 is not a modengine extension
+[2026-03-30 20:53:13.071] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/eldenring_alt_saves.dll
+[2026-03-30 20:53:13.071] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/eldenring_alt_saves.dll at base address 0x7ffab46f0000 is not a modengine extension
+[2026-03-30 20:53:13.072] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ErdTools.dll
+[2026-03-30 20:53:13.072] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ErdTools.dll at base address 0x7ffb50180000 is not a modengine extension
+[2026-03-30 20:53:13.073] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\CCW 3.9\mod/ermerchant.dll
+[2026-03-30 20:53:13.073] [modengine] [warning] External dll C:\Users\Bahme\Desktop\CCW 3.9\mod/ermerchant.dll at base address 0x7ffb3cd30000 is not a modengine extension
+[2026-03-30 20:53:13.073] [modengine] [info] Enabling extension base
+[2026-03-30 20:53:13.073] [modengine] [info] Enabled extension base
+[2026-03-30 20:53:13.073] [modengine] [info] Enabling extension mod_loader
+[2026-03-30 20:53:13.073] [modengine] [info] Installing mod location mod
+[2026-03-30 20:53:13.073] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\CCW 3.9\mod
+[2026-03-30 20:53:13.073] [modengine] [info] Enabled extension mod_loader
+[2026-03-30 20:53:13.146] [modengine] [info] Applied 4 hooks
+[2026-03-30 20:53:13.147] [modengine] [info] Starting worker thread

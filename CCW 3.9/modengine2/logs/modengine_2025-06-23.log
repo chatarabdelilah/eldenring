@@ -1,0 +1,44 @@
+[2025-06-23 20:51:22.630] [modengine] [info] Attempting to load global config at C:\Users\Vibezzify\Desktop\CCW 3.7.5\modengine2\config.toml
+[2025-06-23 20:51:22.630] [modengine] [info] Attempting to load mod settings config at C:\Users\Vibezzify\Desktop\CCW 3.7.5\config_eldenring.toml
+[2025-06-23 20:51:22.638] [modengine] [info] Local config loaded
+[2025-06-23 20:51:22.638] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-06-23 20:51:22.638] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-06-23 20:51:22.638] [modengine] [info] Main thread ID: 15480
+[2025-06-23 20:51:22.678] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ertransmogrify.dll
+[2025-06-23 20:51:22.678] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ertransmogrify.dll at base address 0x7ff812800000 is not a modengine extension
+[2025-06-23 20:51:22.798] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/eldenring_alt_saves.dll
+[2025-06-23 20:51:22.798] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/eldenring_alt_saves.dll at base address 0x7ffff69f0000 is not a modengine extension
+[2025-06-23 20:51:22.823] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ErdTools.dll
+[2025-06-23 20:51:22.823] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ErdTools.dll at base address 0x7ff812e60000 is not a modengine extension
+[2025-06-23 20:51:22.858] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ermerchant.dll
+[2025-06-23 20:51:22.858] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ermerchant.dll at base address 0x7fffebac0000 is not a modengine extension
+[2025-06-23 20:51:22.858] [modengine] [info] Enabling extension base
+[2025-06-23 20:51:22.858] [modengine] [info] Enabled extension base
+[2025-06-23 20:51:22.858] [modengine] [info] Enabling extension mod_loader
+[2025-06-23 20:51:22.858] [modengine] [info] Installing mod location mod
+[2025-06-23 20:51:22.858] [modengine] [info] Resolved mod path to C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod
+[2025-06-23 20:51:22.858] [modengine] [info] Enabled extension mod_loader
+[2025-06-23 20:51:22.949] [modengine] [info] Applied 4 hooks
+[2025-06-23 20:51:22.951] [modengine] [info] Starting worker thread
+[2025-06-23 20:51:37.433] [modengine] [info] Attempting to load global config at C:\Users\Vibezzify\Desktop\CCW 3.7.5\modengine2\config.toml
+[2025-06-23 20:51:37.433] [modengine] [info] Attempting to load mod settings config at C:\Users\Vibezzify\Desktop\CCW 3.7.5\config_eldenring.toml
+[2025-06-23 20:51:37.434] [modengine] [info] Local config loaded
+[2025-06-23 20:51:37.434] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-06-23 20:51:37.434] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-06-23 20:51:37.434] [modengine] [info] Main thread ID: 8652
+[2025-06-23 20:51:37.440] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ertransmogrify.dll
+[2025-06-23 20:51:37.441] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ertransmogrify.dll at base address 0x7fffeca40000 is not a modengine extension
+[2025-06-23 20:51:37.505] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/eldenring_alt_saves.dll
+[2025-06-23 20:51:37.505] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/eldenring_alt_saves.dll at base address 0x7fffe5ca0000 is not a modengine extension
+[2025-06-23 20:51:37.505] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ErdTools.dll
+[2025-06-23 20:51:37.506] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ErdTools.dll at base address 0x7ff812860000 is not a modengine extension
+[2025-06-23 20:51:37.507] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ermerchant.dll
+[2025-06-23 20:51:37.507] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ermerchant.dll at base address 0x7ffff6b30000 is not a modengine extension
+[2025-06-23 20:51:37.507] [modengine] [info] Enabling extension base
+[2025-06-23 20:51:37.507] [modengine] [info] Enabled extension base
+[2025-06-23 20:51:37.507] [modengine] [info] Enabling extension mod_loader
+[2025-06-23 20:51:37.507] [modengine] [info] Installing mod location mod
+[2025-06-23 20:51:37.507] [modengine] [info] Resolved mod path to C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod
+[2025-06-23 20:51:37.507] [modengine] [info] Enabled extension mod_loader
+[2025-06-23 20:51:37.605] [modengine] [info] Applied 4 hooks
+[2025-06-23 20:51:37.607] [modengine] [info] Starting worker thread

@@ -1,0 +1,20 @@
+[2024-07-24 23:48:48.459] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-24 23:48:48.459] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-24 23:48:48.480] [modengine] [info] Local config loaded
+[2024-07-24 23:48:48.480] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-24 23:48:48.480] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-24 23:48:48.480] [modengine] [info] Main thread ID: 17644
+[2024-07-24 23:48:48.511] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-24 23:48:48.511] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fffc6d60000 is not a modengine extension
+[2024-07-24 23:48:48.538] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-24 23:48:48.538] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fffe3950000 is not a modengine extension
+[2024-07-24 23:48:48.624] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-24 23:48:48.624] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fffeb4e0000 is not a modengine extension
+[2024-07-24 23:48:48.624] [modengine] [info] Enabling extension base
+[2024-07-24 23:48:48.624] [modengine] [info] Enabled extension base
+[2024-07-24 23:48:48.624] [modengine] [info] Enabling extension mod_loader
+[2024-07-24 23:48:48.624] [modengine] [info] Installing mod location mod
+[2024-07-24 23:48:48.624] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-24 23:48:48.624] [modengine] [info] Enabled extension mod_loader
+[2024-07-24 23:48:48.671] [modengine] [info] Applied 3 hooks
+[2024-07-24 23:48:48.673] [modengine] [info] Starting worker thread

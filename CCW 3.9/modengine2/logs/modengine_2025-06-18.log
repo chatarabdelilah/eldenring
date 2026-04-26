@@ -1,0 +1,22 @@
+[2025-06-18 21:30:42.151] [modengine] [info] Attempting to load global config at C:\Users\Vibezzify\Desktop\CCW 3.7.5\modengine2\config.toml
+[2025-06-18 21:30:42.151] [modengine] [info] Attempting to load mod settings config at C:\Users\Vibezzify\Desktop\CCW 3.7.5\config_eldenring.toml
+[2025-06-18 21:30:42.161] [modengine] [info] Local config loaded
+[2025-06-18 21:30:42.161] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-06-18 21:30:42.161] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-06-18 21:30:42.161] [modengine] [info] Main thread ID: 12740
+[2025-06-18 21:30:42.203] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ertransmogrify.dll
+[2025-06-18 21:30:42.203] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ertransmogrify.dll at base address 0x7ff9ec030000 is not a modengine extension
+[2025-06-18 21:30:42.340] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/eldenring_alt_saves.dll
+[2025-06-18 21:30:42.340] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/eldenring_alt_saves.dll at base address 0x7ff9e6880000 is not a modengine extension
+[2025-06-18 21:30:42.366] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ErdTools.dll
+[2025-06-18 21:30:42.367] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ErdTools.dll at base address 0x7ff9fff90000 is not a modengine extension
+[2025-06-18 21:30:42.404] [modengine] [info] Loaded external DLL C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ermerchant.dll
+[2025-06-18 21:30:42.404] [modengine] [warning] External dll C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod/ermerchant.dll at base address 0x7ff9e6800000 is not a modengine extension
+[2025-06-18 21:30:42.404] [modengine] [info] Enabling extension base
+[2025-06-18 21:30:42.404] [modengine] [info] Enabled extension base
+[2025-06-18 21:30:42.404] [modengine] [info] Enabling extension mod_loader
+[2025-06-18 21:30:42.404] [modengine] [info] Installing mod location mod
+[2025-06-18 21:30:42.405] [modengine] [info] Resolved mod path to C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod
+[2025-06-18 21:30:42.405] [modengine] [info] Enabled extension mod_loader
+[2025-06-18 21:30:42.511] [modengine] [info] Applied 4 hooks
+[2025-06-18 21:30:42.512] [modengine] [info] Starting worker thread

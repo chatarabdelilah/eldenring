@@ -1,0 +1,24 @@
+[2024-11-22 05:04:27.389] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Desktop\ConvergenceER\modengine2\config.toml
+[2024-11-22 05:04:27.389] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Desktop\ConvergenceER\config_eldenring.toml
+[2024-11-22 05:04:27.397] [modengine] [info] Local config loaded
+[2024-11-22 05:04:27.397] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2024-11-22 05:04:27.397] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-11-22 05:04:27.397] [modengine] [info] Main thread ID: 23920
+[2024-11-22 05:04:27.426] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2024-11-22 05:04:27.426] [modengine] [warning] External dll C:\Users\CouchJockey\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ffea48a0000 is not a modengine extension
+[2024-11-22 05:04:27.447] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Desktop\ConvergenceER\mod/ErdTools.dll
+[2024-11-22 05:04:27.447] [modengine] [warning] External dll C:\Users\CouchJockey\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ffebe100000 is not a modengine extension
+[2024-11-22 05:04:27.558] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2024-11-22 05:04:27.558] [modengine] [warning] External dll C:\Users\CouchJockey\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ffea47e0000 is not a modengine extension
+[2024-11-22 05:04:27.620] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2024-11-22 05:04:27.620] [modengine] [warning] External dll C:\Users\CouchJockey\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffec3a30000 is not a modengine extension
+[2024-11-22 05:04:27.627] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Desktop\ConvergenceER\mod/erdyes.dll
+[2024-11-22 05:04:27.627] [modengine] [warning] External dll C:\Users\CouchJockey\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ffea4760000 is not a modengine extension
+[2024-11-22 05:04:27.627] [modengine] [info] Enabling extension base
+[2024-11-22 05:04:27.627] [modengine] [info] Enabled extension base
+[2024-11-22 05:04:27.627] [modengine] [info] Enabling extension mod_loader
+[2024-11-22 05:04:27.627] [modengine] [info] Installing mod location mod
+[2024-11-22 05:04:27.627] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Desktop\ConvergenceER\mod
+[2024-11-22 05:04:27.627] [modengine] [info] Enabled extension mod_loader
+[2024-11-22 05:04:27.710] [modengine] [info] Applied 4 hooks
+[2024-11-22 05:04:27.711] [modengine] [info] Starting worker thread

@@ -1,0 +1,44 @@
+[2025-06-23 20:51:22.670] [transmog] [info] Transmog version 2.3.8
+[2025-06-23 20:51:22.670] [transmog] [info] Loading config from C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod\ertransmogrify.ini
+[2025-06-23 20:51:22.678] [transmog] [info] include_unobtained_armor = true 
+[2025-06-23 20:51:22.678] [transmog] [info] include_cut_armor = true 
+[2025-06-23 20:51:22.678] [transmog] [info] include_dlc_armor = true 
+[2025-06-23 20:51:22.678] [transmog] [info] transmog_affects_posture = true 
+[2025-06-23 20:51:22.678] [transmog] [info] patch_grace_talk_script = true 
+[2025-06-23 20:51:22.678] [transmog] [info] initialize_delay = 2000 
+[2025-06-23 20:51:22.678] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-06-23 20:51:22.683] [transmog] [info] Waiting for params...
+[2025-06-23 20:51:37.440] [transmog] [info] Transmog version 2.3.8
+[2025-06-23 20:51:37.440] [transmog] [info] Loading config from C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod\ertransmogrify.ini
+[2025-06-23 20:51:37.440] [transmog] [info] include_unobtained_armor = true 
+[2025-06-23 20:51:37.440] [transmog] [info] include_cut_armor = true 
+[2025-06-23 20:51:37.440] [transmog] [info] include_dlc_armor = true 
+[2025-06-23 20:51:37.440] [transmog] [info] transmog_affects_posture = true 
+[2025-06-23 20:51:37.440] [transmog] [info] patch_grace_talk_script = true 
+[2025-06-23 20:51:37.440] [transmog] [info] initialize_delay = 2000 
+[2025-06-23 20:51:37.441] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-06-23 20:51:37.454] [transmog] [info] Waiting for params...
+[2025-06-23 20:51:49.458] [transmog] [info] Hooking transmog messages...
+[2025-06-23 20:51:49.458] [transmog] [info] Waiting for messages...
+[2025-06-23 20:51:49.460] [transmog] [info] Detected game language = english
+[2025-06-23 20:51:49.460] [transmog] [info] Adding transmog VFX...
+[2025-06-23 20:51:50.465] [transmog] [info] SpEffect IDs = 169371248 169371249
+[2025-06-23 20:51:50.465] [transmog] [info] Adding transmog shops...
+[2025-06-23 20:51:51.471] [transmog] [info] Hooking talk scripts...
+[2025-06-23 20:51:51.474] [transmog] [info] Waiting 2000ms to enable...
+[2025-06-23 20:51:53.535] [transmog] [info] Initialized transmog
+[2025-06-23 20:52:20.363] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 20:52:37.642] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 20:53:13.340] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:04:23.719] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:08:00.480] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:08:55.817] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:11:08.540] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:11:23.448] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:16:37.873] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:16:58.080] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:19:04.878] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:19:35.788] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:22:20.631] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:23:38.542] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-23 21:28:48.797] [transmog] [info] Loaded main player - clearing previous transmog

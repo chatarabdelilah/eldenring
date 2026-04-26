@@ -1,0 +1,116 @@
+[2025-01-27 10:11:12.838] [modengine] [info] Attempting to load global config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\modengine2\config.toml
+[2025-01-27 10:11:12.838] [modengine] [info] Attempting to load mod settings config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\config_eldenring.toml
+[2025-01-27 10:11:12.845] [modengine] [info] Local config loaded
+[2025-01-27 10:11:12.845] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-27 10:11:12.846] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-27 10:11:12.846] [modengine] [info] Main thread ID: 4876
+[2025-01-27 10:11:12.925] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\SeamlessCoop/ersc.dll
+[2025-01-27 10:11:15.358] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll
+[2025-01-27 10:11:15.358] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll at base address 0x7ffcbe460000 is not a modengine extension
+[2025-01-27 10:11:15.382] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll
+[2025-01-27 10:11:15.382] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll at base address 0x7ffd09020000 is not a modengine extension
+[2025-01-27 10:11:15.513] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll
+[2025-01-27 10:11:15.513] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll at base address 0x7ffca4160000 is not a modengine extension
+[2025-01-27 10:11:15.587] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-27 10:11:15.587] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffcf4600000 is not a modengine extension
+[2025-01-27 10:11:15.625] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll
+[2025-01-27 10:11:15.625] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll at base address 0x7ffceaba0000 is not a modengine extension
+[2025-01-27 10:11:15.661] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll
+[2025-01-27 10:11:15.661] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll at base address 0x7ffcbe370000 is not a modengine extension
+[2025-01-27 10:11:15.681] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll
+[2025-01-27 10:11:15.681] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll at base address 0x7ffd0fc60000 is not a modengine extension
+[2025-01-27 10:11:15.681] [modengine] [info] Enabling extension base
+[2025-01-27 10:11:15.681] [modengine] [info] Enabled extension base
+[2025-01-27 10:11:15.681] [modengine] [info] Enabling extension mod_loader
+[2025-01-27 10:11:15.681] [modengine] [info] Installing mod location mod
+[2025-01-27 10:11:15.681] [modengine] [info] Resolved mod path to D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod
+[2025-01-27 10:11:15.681] [modengine] [info] Enabled extension mod_loader
+[2025-01-27 10:11:15.771] [modengine] [info] Applied 4 hooks
+[2025-01-27 10:11:15.774] [modengine] [info] Starting worker thread
+[2025-01-27 10:19:50.533] [modengine] [info] Attempting to load global config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\modengine2\config.toml
+[2025-01-27 10:19:50.533] [modengine] [info] Attempting to load mod settings config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\config_eldenring.toml
+[2025-01-27 10:19:50.533] [modengine] [info] Local config loaded
+[2025-01-27 10:19:50.533] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-27 10:19:50.533] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-27 10:19:50.533] [modengine] [info] Main thread ID: 11320
+[2025-01-27 10:19:50.538] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\SeamlessCoop/ersc.dll
+[2025-01-27 10:19:52.796] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll
+[2025-01-27 10:19:52.796] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll at base address 0x7ffcbe460000 is not a modengine extension
+[2025-01-27 10:19:52.797] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll
+[2025-01-27 10:19:52.797] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll at base address 0x7ffd0fc80000 is not a modengine extension
+[2025-01-27 10:19:52.851] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll
+[2025-01-27 10:19:52.851] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll at base address 0x7ffca4160000 is not a modengine extension
+[2025-01-27 10:19:52.905] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-27 10:19:52.905] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffd0fc60000 is not a modengine extension
+[2025-01-27 10:19:52.907] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll
+[2025-01-27 10:19:52.907] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll at base address 0x7ffceac80000 is not a modengine extension
+[2025-01-27 10:19:52.908] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll
+[2025-01-27 10:19:52.908] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll at base address 0x7ffcbe370000 is not a modengine extension
+[2025-01-27 10:19:52.908] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll
+[2025-01-27 10:19:52.908] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll at base address 0x7ffd0fc50000 is not a modengine extension
+[2025-01-27 10:19:52.908] [modengine] [info] Enabling extension base
+[2025-01-27 10:19:52.909] [modengine] [info] Enabled extension base
+[2025-01-27 10:19:52.909] [modengine] [info] Enabling extension mod_loader
+[2025-01-27 10:19:52.909] [modengine] [info] Installing mod location mod
+[2025-01-27 10:19:52.909] [modengine] [info] Resolved mod path to D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod
+[2025-01-27 10:19:52.909] [modengine] [info] Enabled extension mod_loader
+[2025-01-27 10:19:53.007] [modengine] [info] Applied 4 hooks
+[2025-01-27 10:19:53.010] [modengine] [info] Starting worker thread
+[2025-01-27 10:23:36.056] [modengine] [info] Attempting to load global config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\modengine2\config.toml
+[2025-01-27 10:23:36.056] [modengine] [info] Attempting to load mod settings config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\config_eldenring.toml
+[2025-01-27 10:23:36.056] [modengine] [info] Local config loaded
+[2025-01-27 10:23:36.056] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-27 10:23:36.056] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-27 10:23:36.056] [modengine] [info] Main thread ID: 16160
+[2025-01-27 10:23:36.061] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\SeamlessCoop/ersc.dll
+[2025-01-27 10:23:38.388] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll
+[2025-01-27 10:23:38.388] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll at base address 0x7ffcd9530000 is not a modengine extension
+[2025-01-27 10:23:38.388] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll
+[2025-01-27 10:23:38.388] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll at base address 0x7ffd0fc80000 is not a modengine extension
+[2025-01-27 10:23:38.443] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll
+[2025-01-27 10:23:38.443] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll at base address 0x7ffca4160000 is not a modengine extension
+[2025-01-27 10:23:38.496] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-27 10:23:38.496] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffd0fc60000 is not a modengine extension
+[2025-01-27 10:23:38.497] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll
+[2025-01-27 10:23:38.497] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll at base address 0x7ffceac80000 is not a modengine extension
+[2025-01-27 10:23:38.498] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll
+[2025-01-27 10:23:38.498] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll at base address 0x7ffcd94b0000 is not a modengine extension
+[2025-01-27 10:23:38.499] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll
+[2025-01-27 10:23:38.499] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll at base address 0x7ffd0fc50000 is not a modengine extension
+[2025-01-27 10:23:38.499] [modengine] [info] Enabling extension base
+[2025-01-27 10:23:38.499] [modengine] [info] Enabled extension base
+[2025-01-27 10:23:38.499] [modengine] [info] Enabling extension mod_loader
+[2025-01-27 10:23:38.499] [modengine] [info] Installing mod location mod
+[2025-01-27 10:23:38.499] [modengine] [info] Resolved mod path to D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod
+[2025-01-27 10:23:38.499] [modengine] [info] Enabled extension mod_loader
+[2025-01-27 10:23:38.589] [modengine] [info] Applied 4 hooks
+[2025-01-27 10:23:38.592] [modengine] [info] Starting worker thread
+[2025-01-27 10:28:35.299] [modengine] [info] Attempting to load global config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\modengine2\config.toml
+[2025-01-27 10:28:35.299] [modengine] [info] Attempting to load mod settings config at D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\config_eldenring.toml
+[2025-01-27 10:28:35.300] [modengine] [info] Local config loaded
+[2025-01-27 10:28:35.300] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-27 10:28:35.300] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-27 10:28:35.300] [modengine] [info] Main thread ID: 3172
+[2025-01-27 10:28:35.304] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\SeamlessCoop/ersc.dll
+[2025-01-27 10:28:37.447] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll
+[2025-01-27 10:28:37.447] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ertransmogrify.dll at base address 0x7ffceac70000 is not a modengine extension
+[2025-01-27 10:28:37.448] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll
+[2025-01-27 10:28:37.448] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ErdTools.dll at base address 0x7ffd09020000 is not a modengine extension
+[2025-01-27 10:28:37.502] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll
+[2025-01-27 10:28:37.502] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/eldenring_alt_saves.dll at base address 0x7ffca3f80000 is not a modengine extension
+[2025-01-27 10:28:37.553] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-27 10:28:37.553] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffd0fc30000 is not a modengine extension
+[2025-01-27 10:28:37.554] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll
+[2025-01-27 10:28:37.554] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/erdyes.dll at base address 0x7ffcf45e0000 is not a modengine extension
+[2025-01-27 10:28:37.555] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll
+[2025-01-27 10:28:37.555] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/ermerchant.dll at base address 0x7ffca4970000 is not a modengine extension
+[2025-01-27 10:28:37.556] [modengine] [info] Loaded external DLL D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll
+[2025-01-27 10:28:37.556] [modengine] [warning] External dll D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod/SetCPUAffinity.dll at base address 0x7ffd0fc00000 is not a modengine extension
+[2025-01-27 10:28:37.556] [modengine] [info] Enabling extension base
+[2025-01-27 10:28:37.556] [modengine] [info] Enabled extension base
+[2025-01-27 10:28:37.556] [modengine] [info] Enabling extension mod_loader
+[2025-01-27 10:28:37.556] [modengine] [info] Installing mod location mod
+[2025-01-27 10:28:37.556] [modengine] [info] Resolved mod path to D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod
+[2025-01-27 10:28:37.556] [modengine] [info] Enabled extension mod_loader
+[2025-01-27 10:28:37.655] [modengine] [info] Applied 4 hooks
+[2025-01-27 10:28:37.659] [modengine] [info] Starting worker thread

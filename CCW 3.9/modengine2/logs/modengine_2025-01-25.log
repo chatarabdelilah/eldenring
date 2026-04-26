@@ -1,0 +1,175 @@
+[2025-01-25 15:47:10.928] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 15:47:10.928] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 15:47:10.936] [modengine] [info] Local config loaded
+[2025-01-25 15:47:10.937] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 15:47:10.937] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 15:47:10.937] [modengine] [info] Main thread ID: 9068
+[2025-01-25 15:47:11.005] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 15:47:13.247] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 15:47:13.247] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9d00c0000 is not a modengine extension
+[2025-01-25 15:47:13.269] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 15:47:13.269] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9d0d10000 is not a modengine extension
+[2025-01-25 15:47:13.401] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 15:47:13.401] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9b7ba0000 is not a modengine extension
+[2025-01-25 15:47:13.474] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 15:47:13.474] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9d0cf0000 is not a modengine extension
+[2025-01-25 15:47:13.504] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 15:47:13.504] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9a8fe0000 is not a modengine extension
+[2025-01-25 15:47:13.504] [modengine] [info] Enabling extension base
+[2025-01-25 15:47:13.504] [modengine] [info] Enabled extension base
+[2025-01-25 15:47:13.504] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 15:47:13.504] [modengine] [info] Installing mod location mod
+[2025-01-25 15:47:13.504] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 15:47:13.504] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 15:47:13.597] [modengine] [info] Applied 4 hooks
+[2025-01-25 15:47:13.600] [modengine] [info] Starting worker thread
+[2025-01-25 16:02:20.783] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 16:02:20.783] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 16:02:20.783] [modengine] [info] Local config loaded
+[2025-01-25 16:02:20.783] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 16:02:20.783] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 16:02:20.783] [modengine] [info] Main thread ID: 1840
+[2025-01-25 16:02:20.787] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 16:02:23.039] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 16:02:23.039] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9d00c0000 is not a modengine extension
+[2025-01-25 16:02:23.039] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 16:02:23.040] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9d0d10000 is not a modengine extension
+[2025-01-25 16:02:23.095] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 16:02:23.095] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9b72b0000 is not a modengine extension
+[2025-01-25 16:02:23.148] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 16:02:23.149] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9e1160000 is not a modengine extension
+[2025-01-25 16:02:23.150] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 16:02:23.150] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9a9220000 is not a modengine extension
+[2025-01-25 16:02:23.150] [modengine] [info] Enabling extension base
+[2025-01-25 16:02:23.150] [modengine] [info] Enabled extension base
+[2025-01-25 16:02:23.150] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 16:02:23.150] [modengine] [info] Installing mod location mod
+[2025-01-25 16:02:23.150] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 16:02:23.150] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 16:02:23.245] [modengine] [info] Applied 4 hooks
+[2025-01-25 16:02:23.247] [modengine] [info] Starting worker thread
+[2025-01-25 16:20:33.162] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 16:20:33.162] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 16:20:33.162] [modengine] [info] Local config loaded
+[2025-01-25 16:20:33.162] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 16:20:33.162] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 16:20:33.162] [modengine] [info] Main thread ID: 22024
+[2025-01-25 16:20:33.167] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 16:20:35.531] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 16:20:35.531] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9d00f0000 is not a modengine extension
+[2025-01-25 16:20:35.532] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 16:20:35.532] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9e1160000 is not a modengine extension
+[2025-01-25 16:20:35.591] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 16:20:35.591] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9b7ba0000 is not a modengine extension
+[2025-01-25 16:20:35.645] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 16:20:35.645] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9d0d20000 is not a modengine extension
+[2025-01-25 16:20:35.646] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 16:20:35.646] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9b72f0000 is not a modengine extension
+[2025-01-25 16:20:35.646] [modengine] [info] Enabling extension base
+[2025-01-25 16:20:35.647] [modengine] [info] Enabled extension base
+[2025-01-25 16:20:35.647] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 16:20:35.647] [modengine] [info] Installing mod location mod
+[2025-01-25 16:20:35.647] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 16:20:35.647] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 16:20:35.755] [modengine] [info] Applied 4 hooks
+[2025-01-25 16:20:35.758] [modengine] [info] Starting worker thread
+[2025-01-25 16:23:49.357] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 16:23:49.357] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 16:23:49.357] [modengine] [info] Local config loaded
+[2025-01-25 16:23:49.358] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 16:23:49.358] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 16:23:49.358] [modengine] [info] Main thread ID: 9516
+[2025-01-25 16:23:49.362] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 16:23:51.784] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 16:23:51.784] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9d00f0000 is not a modengine extension
+[2025-01-25 16:23:51.784] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 16:23:51.784] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9e1160000 is not a modengine extension
+[2025-01-25 16:23:51.840] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 16:23:51.840] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9cabe0000 is not a modengine extension
+[2025-01-25 16:23:51.900] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 16:23:51.900] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9d0d20000 is not a modengine extension
+[2025-01-25 16:23:51.901] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 16:23:51.901] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9b72f0000 is not a modengine extension
+[2025-01-25 16:23:51.901] [modengine] [info] Enabling extension base
+[2025-01-25 16:23:51.901] [modengine] [info] Enabled extension base
+[2025-01-25 16:23:51.901] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 16:23:51.901] [modengine] [info] Installing mod location mod
+[2025-01-25 16:23:51.902] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 16:23:51.902] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 16:23:52.003] [modengine] [info] Applied 4 hooks
+[2025-01-25 16:23:52.007] [modengine] [info] Starting worker thread
+[2025-01-25 16:30:49.813] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 16:30:49.813] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 16:30:49.814] [modengine] [info] Local config loaded
+[2025-01-25 16:30:49.814] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 16:30:49.814] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 16:30:49.814] [modengine] [info] Main thread ID: 21696
+[2025-01-25 16:30:49.818] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 16:30:52.153] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 16:30:52.153] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9cac60000 is not a modengine extension
+[2025-01-25 16:30:52.154] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 16:30:52.154] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9e1160000 is not a modengine extension
+[2025-01-25 16:30:52.210] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 16:30:52.210] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9b72b0000 is not a modengine extension
+[2025-01-25 16:30:52.271] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 16:30:52.271] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9e0330000 is not a modengine extension
+[2025-01-25 16:30:52.273] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 16:30:52.273] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9d0100000 is not a modengine extension
+[2025-01-25 16:30:52.273] [modengine] [info] Enabling extension base
+[2025-01-25 16:30:52.273] [modengine] [info] Enabled extension base
+[2025-01-25 16:30:52.273] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 16:30:52.273] [modengine] [info] Installing mod location mod
+[2025-01-25 16:30:52.273] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 16:30:52.273] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 16:30:52.373] [modengine] [info] Applied 4 hooks
+[2025-01-25 16:30:52.376] [modengine] [info] Starting worker thread
+[2025-01-25 16:46:52.090] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 16:46:52.090] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 16:46:52.090] [modengine] [info] Local config loaded
+[2025-01-25 16:46:52.090] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 16:46:52.090] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 16:46:52.090] [modengine] [info] Main thread ID: 7996
+[2025-01-25 16:46:52.094] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 16:46:54.715] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 16:46:54.715] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9d00f0000 is not a modengine extension
+[2025-01-25 16:46:54.715] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 16:46:54.715] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9e1160000 is not a modengine extension
+[2025-01-25 16:46:54.770] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 16:46:54.770] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9cac30000 is not a modengine extension
+[2025-01-25 16:46:54.826] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 16:46:54.826] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9d0d20000 is not a modengine extension
+[2025-01-25 16:46:54.827] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 16:46:54.827] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9b74d0000 is not a modengine extension
+[2025-01-25 16:46:54.827] [modengine] [info] Enabling extension base
+[2025-01-25 16:46:54.827] [modengine] [info] Enabled extension base
+[2025-01-25 16:46:54.827] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 16:46:54.827] [modengine] [info] Installing mod location mod
+[2025-01-25 16:46:54.827] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 16:46:54.827] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 16:46:54.924] [modengine] [info] Applied 4 hooks
+[2025-01-25 16:46:54.927] [modengine] [info] Starting worker thread
+[2025-01-25 18:10:41.224] [modengine] [info] Attempting to load global config at C:\Users\Bahme\Desktop\ConvergenceER\modengine2\config.toml
+[2025-01-25 18:10:41.224] [modengine] [info] Attempting to load mod settings config at C:\Users\Bahme\Desktop\ConvergenceER\config_eldenring.toml
+[2025-01-25 18:10:41.225] [modengine] [info] Local config loaded
+[2025-01-25 18:10:41.225] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-01-25 18:10:41.225] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-01-25 18:10:41.225] [modengine] [info] Main thread ID: 22296
+[2025-01-25 18:10:41.229] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\SeamlessCoop/ersc.dll
+[2025-01-25 18:10:43.584] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll
+[2025-01-25 18:10:43.584] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ertransmogrify.dll at base address 0x7ff9cac60000 is not a modengine extension
+[2025-01-25 18:10:43.585] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll
+[2025-01-25 18:10:43.585] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/ErdTools.dll at base address 0x7ff9e1160000 is not a modengine extension
+[2025-01-25 18:10:43.639] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll
+[2025-01-25 18:10:43.639] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/eldenring_alt_saves.dll at base address 0x7ff9b7a50000 is not a modengine extension
+[2025-01-25 18:10:43.696] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll
+[2025-01-25 18:10:43.696] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ff9d0160000 is not a modengine extension
+[2025-01-25 18:10:43.697] [modengine] [info] Loaded external DLL C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll
+[2025-01-25 18:10:43.697] [modengine] [warning] External dll C:\Users\Bahme\Desktop\ConvergenceER\mod/erdyes.dll at base address 0x7ff9b79d0000 is not a modengine extension
+[2025-01-25 18:10:43.697] [modengine] [info] Enabling extension base
+[2025-01-25 18:10:43.697] [modengine] [info] Enabled extension base
+[2025-01-25 18:10:43.697] [modengine] [info] Enabling extension mod_loader
+[2025-01-25 18:10:43.697] [modengine] [info] Installing mod location mod
+[2025-01-25 18:10:43.697] [modengine] [info] Resolved mod path to C:\Users\Bahme\Desktop\ConvergenceER\mod
+[2025-01-25 18:10:43.697] [modengine] [info] Enabled extension mod_loader
+[2025-01-25 18:10:43.789] [modengine] [info] Applied 4 hooks
+[2025-01-25 18:10:43.792] [modengine] [info] Starting worker thread

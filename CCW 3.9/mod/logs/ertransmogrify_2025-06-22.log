@@ -1,0 +1,26 @@
+[2025-06-22 23:51:08.925] [transmog] [info] Transmog version 2.3.8
+[2025-06-22 23:51:08.925] [transmog] [info] Loading config from C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod\ertransmogrify.ini
+[2025-06-22 23:51:08.931] [transmog] [info] include_unobtained_armor = true 
+[2025-06-22 23:51:08.931] [transmog] [info] include_cut_armor = true 
+[2025-06-22 23:51:08.931] [transmog] [info] include_dlc_armor = true 
+[2025-06-22 23:51:08.931] [transmog] [info] transmog_affects_posture = true 
+[2025-06-22 23:51:08.931] [transmog] [info] patch_grace_talk_script = true 
+[2025-06-22 23:51:08.931] [transmog] [info] initialize_delay = 2000 
+[2025-06-22 23:51:08.932] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-06-22 23:51:08.939] [transmog] [info] Waiting for params...
+[2025-06-22 23:51:23.948] [transmog] [info] Hooking transmog messages...
+[2025-06-22 23:51:23.949] [transmog] [info] Waiting for messages...
+[2025-06-22 23:51:23.950] [transmog] [info] Detected game language = english
+[2025-06-22 23:51:23.950] [transmog] [info] Adding transmog VFX...
+[2025-06-22 23:51:24.956] [transmog] [info] SpEffect IDs = 169191080 169191081
+[2025-06-22 23:51:24.956] [transmog] [info] Adding transmog shops...
+[2025-06-22 23:51:25.963] [transmog] [info] Hooking talk scripts...
+[2025-06-22 23:51:25.966] [transmog] [info] Waiting 2000ms to enable...
+[2025-06-22 23:51:28.016] [transmog] [info] Initialized transmog
+[2025-06-22 23:51:49.437] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-22 23:52:16.190] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-22 23:53:55.548] [transmog] [info] Patched state group x31
+[2025-06-22 23:54:14.437] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-22 23:54:55.735] [transmog] [info] Patched state group x31
+[2025-06-22 23:55:40.461] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-22 23:56:01.111] [transmog] [info] Patched state group x31

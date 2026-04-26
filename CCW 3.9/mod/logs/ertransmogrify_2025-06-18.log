@@ -1,0 +1,28 @@
+[2025-06-18 21:30:42.191] [transmog] [info] Transmog version 2.3.8
+[2025-06-18 21:30:42.191] [transmog] [info] Loading config from C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod\ertransmogrify.ini
+[2025-06-18 21:30:42.202] [transmog] [info] include_unobtained_armor = true 
+[2025-06-18 21:30:42.202] [transmog] [info] include_cut_armor = true 
+[2025-06-18 21:30:42.202] [transmog] [info] include_dlc_armor = true 
+[2025-06-18 21:30:42.202] [transmog] [info] transmog_affects_posture = true 
+[2025-06-18 21:30:42.202] [transmog] [info] patch_grace_talk_script = true 
+[2025-06-18 21:30:42.202] [transmog] [info] initialize_delay = 2000 
+[2025-06-18 21:30:42.203] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-06-18 21:30:42.210] [transmog] [info] Waiting for params...
+[2025-06-18 21:30:59.219] [transmog] [info] Hooking transmog messages...
+[2025-06-18 21:30:59.220] [transmog] [info] Waiting for messages...
+[2025-06-18 21:30:59.222] [transmog] [info] Detected game language = english
+[2025-06-18 21:30:59.222] [transmog] [info] Adding transmog VFX...
+[2025-06-18 21:31:00.227] [transmog] [info] SpEffect IDs = 169367068 169367069
+[2025-06-18 21:31:00.227] [transmog] [info] Adding transmog shops...
+[2025-06-18 21:31:01.232] [transmog] [info] Hooking talk scripts...
+[2025-06-18 21:31:01.234] [transmog] [info] Waiting 2000ms to enable...
+[2025-06-18 21:31:03.294] [transmog] [info] Initialized transmog
+[2025-06-18 21:31:25.588] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:32:31.010] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:34:23.803] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:34:57.960] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:36:47.599] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:39:20.055] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:40:41.318] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:41:48.877] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-18 21:43:08.203] [transmog] [info] Loaded main player - clearing previous transmog

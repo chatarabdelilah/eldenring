@@ -1,0 +1,55 @@
+[2025-01-27 10:19:52.906] [dyes] [info] Armor dye mod version 1.0.2
+[2025-01-27 10:19:52.906] [dyes] [info] Loading config from D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod\erdyes.ini
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Mountaintop White = #f9fffe"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Stormhill Gray = #9d9d97"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Vagabond Steel = #474f52"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Deathbed Atrous = #1d1d21"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Crucible Bronze = #835432"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Crimson Amber = #b02e26"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Roiling Magma = #f9801d"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Xanthous Frenzy = #fed83d"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Toxic Chartreuse = #80c71f"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Cave Moss Green = #5e7c16"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Cerulean Amber = #169c9c"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Primeval Blue = #3c44aa"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Violet Void = #8932b8"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Madding Magenta = #c74ebd"
+[2025-01-27 10:19:52.907] [dyes] [info] Added color definition "Putrid Pink = #f38baa"
+[2025-01-27 10:19:52.907] [dyes] [info] Added 15 colors
+[2025-01-27 10:19:52.907] [dyes] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-01-27 10:19:52.908] [dyes] [info] Waiting for params...
+[2025-01-27 10:20:03.912] [dyes] [info] Sleeping for 8000ms...
+[2025-01-27 10:20:11.912] [dyes] [info] Hooking messages...
+[2025-01-27 10:20:11.912] [dyes] [info] Waiting for messages...
+[2025-01-27 10:20:11.913] [dyes] [info] Detected language "english"
+[2025-01-27 10:20:11.915] [dyes] [info] Hooking talkscripts...
+[2025-01-27 10:20:11.971] [dyes] [info] Initialized mod
+[2025-01-27 10:22:07.593] [dyes] [info] Deinitialized mod
+[2025-01-27 10:23:38.496] [dyes] [info] Armor dye mod version 1.0.2
+[2025-01-27 10:23:38.496] [dyes] [info] Loading config from D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod\erdyes.ini
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Mountaintop White = #f9fffe"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Stormhill Gray = #9d9d97"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Vagabond Steel = #474f52"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Deathbed Atrous = #1d1d21"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Crucible Bronze = #835432"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Crimson Amber = #b02e26"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Roiling Magma = #f9801d"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Xanthous Frenzy = #fed83d"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Toxic Chartreuse = #80c71f"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Cave Moss Green = #5e7c16"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Cerulean Amber = #169c9c"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Primeval Blue = #3c44aa"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Violet Void = #8932b8"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Madding Magenta = #c74ebd"
+[2025-01-27 10:23:38.497] [dyes] [info] Added color definition "Putrid Pink = #f38baa"
+[2025-01-27 10:23:38.497] [dyes] [info] Added 15 colors
+[2025-01-27 10:23:38.497] [dyes] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-01-27 10:23:38.498] [dyes] [info] Waiting for params...
+[2025-01-27 10:23:49.500] [dyes] [info] Sleeping for 8000ms...
+[2025-01-27 10:23:57.501] [dyes] [info] Hooking messages...
+[2025-01-27 10:23:57.501] [dyes] [info] Waiting for messages...
+[2025-01-27 10:23:57.503] [dyes] [info] Detected language "english"
+[2025-01-27 10:23:57.505] [dyes] [info] Hooking talkscripts...
+[2025-01-27 10:23:57.570] [dyes] [info] Initialized mod
+[2025-01-27 10:26:35.148] [dyes] [info] Patching state group x31
+[2025-01-27 10:27:00.341] [dyes] [info] Deinitialized mod

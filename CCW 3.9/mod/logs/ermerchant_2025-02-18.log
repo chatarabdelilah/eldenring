@@ -1,0 +1,135 @@
+[2025-02-18 22:12:55.590] [merchant] [info] Glorious Merchant version 1.1.5
+[2025-02-18 22:12:55.591] [merchant] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ermerchant.ini
+[2025-02-18 22:12:55.596] [merchant] [info] auto_upgrade_weapons = true
+[2025-02-18 22:12:55.596] [merchant] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 22:12:55.597] [merchant] [info] Waiting for params...
+[2025-02-18 22:13:06.602] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...
+[2025-02-18 22:13:16.603] [merchant] [info] Hooking messages...
+[2025-02-18 22:13:16.603] [merchant] [info] Detected language "english"
+[2025-02-18 22:13:16.605] [merchant] [info] Hooking shops...
+[2025-02-18 22:13:16.605] [merchant] [info] weapon_lineups = 0x7ffd58f15a78
+[2025-02-18 22:13:16.605] [merchant] [info] armor_lineups = 0x7ffd58f15a98
+[2025-02-18 22:13:16.605] [merchant] [info] spell_lineups = 0x7ffd58f15ab8
+[2025-02-18 22:13:16.605] [merchant] [info] talisman_lineups = 0x7ffd58f15ad8
+[2025-02-18 22:13:16.605] [merchant] [info] ammunition_lineups = 0x7ffd58f15af8
+[2025-02-18 22:13:16.605] [merchant] [info] ash_of_war_lineups = 0x7ffd58f15b18
+[2025-02-18 22:13:16.605] [merchant] [info] spirit_summon_lineups = 0x7ffd58f15b38
+[2025-02-18 22:13:16.605] [merchant] [info] consumable_lineups = 0x7ffd58f15b58
+[2025-02-18 22:13:16.605] [merchant] [info] material_lineups = 0x7ffd58f15b78
+[2025-02-18 22:13:16.605] [merchant] [info] miscellaneous_item_lineups = 0x7ffd58f15b98
+[2025-02-18 22:13:16.605] [merchant] [info] cut_good_lineups = 0x7ffd58f15bb8
+[2025-02-18 22:13:16.605] [merchant] [info] cut_armor_lineups = 0x7ffd58f15bd8
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_weapon_lineups = 0x7ffd58f15bf8
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_armor_lineups = 0x7ffd58f15c18
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_spell_lineups = 0x7ffd58f15c38
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_talisman_lineups = 0x7ffd58f15c58
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_ammunition_lineups = 0x7ffd58f15c78
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_ashes_of_war_lineups = 0x7ffd58f15c98
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_spirit_summon_lineups = 0x7ffd58f15cb8
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_consumable_lineups = 0x7ffd58f15cd8
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_material_lineups = 0x7ffd58f15cf8
+[2025-02-18 22:13:16.605] [merchant] [info] dlc_miscellaneous_item_lineups = 0x7ffd58f15d18
+[2025-02-18 22:13:16.609] [merchant] [info] Hooking talkscripts...
+[2025-02-18 22:13:16.660] [merchant] [info] Initialized mod
+[2025-02-18 22:58:12.914] [merchant] [info] Glorious Merchant version 1.1.5
+[2025-02-18 22:58:12.914] [merchant] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ermerchant.ini
+[2025-02-18 22:58:12.914] [merchant] [info] auto_upgrade_weapons = true
+[2025-02-18 22:58:12.914] [merchant] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 22:58:12.915] [merchant] [info] Waiting for params...
+[2025-02-18 22:58:23.919] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...
+[2025-02-18 22:58:33.919] [merchant] [info] Hooking messages...
+[2025-02-18 22:58:33.919] [merchant] [info] Detected language "english"
+[2025-02-18 22:58:33.920] [merchant] [info] Hooking shops...
+[2025-02-18 22:58:33.920] [merchant] [info] weapon_lineups = 0x7ffd59db5a78
+[2025-02-18 22:58:33.920] [merchant] [info] armor_lineups = 0x7ffd59db5a98
+[2025-02-18 22:58:33.920] [merchant] [info] spell_lineups = 0x7ffd59db5ab8
+[2025-02-18 22:58:33.920] [merchant] [info] talisman_lineups = 0x7ffd59db5ad8
+[2025-02-18 22:58:33.920] [merchant] [info] ammunition_lineups = 0x7ffd59db5af8
+[2025-02-18 22:58:33.920] [merchant] [info] ash_of_war_lineups = 0x7ffd59db5b18
+[2025-02-18 22:58:33.920] [merchant] [info] spirit_summon_lineups = 0x7ffd59db5b38
+[2025-02-18 22:58:33.921] [merchant] [info] consumable_lineups = 0x7ffd59db5b58
+[2025-02-18 22:58:33.921] [merchant] [info] material_lineups = 0x7ffd59db5b78
+[2025-02-18 22:58:33.921] [merchant] [info] miscellaneous_item_lineups = 0x7ffd59db5b98
+[2025-02-18 22:58:33.921] [merchant] [info] cut_good_lineups = 0x7ffd59db5bb8
+[2025-02-18 22:58:33.921] [merchant] [info] cut_armor_lineups = 0x7ffd59db5bd8
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_weapon_lineups = 0x7ffd59db5bf8
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_armor_lineups = 0x7ffd59db5c18
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_spell_lineups = 0x7ffd59db5c38
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_talisman_lineups = 0x7ffd59db5c58
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_ammunition_lineups = 0x7ffd59db5c78
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_ashes_of_war_lineups = 0x7ffd59db5c98
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_spirit_summon_lineups = 0x7ffd59db5cb8
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_consumable_lineups = 0x7ffd59db5cd8
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_material_lineups = 0x7ffd59db5cf8
+[2025-02-18 22:58:33.921] [merchant] [info] dlc_miscellaneous_item_lineups = 0x7ffd59db5d18
+[2025-02-18 22:58:33.995] [merchant] [info] Hooking talkscripts...
+[2025-02-18 22:58:34.038] [merchant] [info] Initialized mod
+[2025-02-18 23:24:38.459] [merchant] [info] Deinitialized mod
+[2025-02-18 23:42:07.455] [merchant] [info] Glorious Merchant version 1.1.5
+[2025-02-18 23:42:07.455] [merchant] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ermerchant.ini
+[2025-02-18 23:42:07.455] [merchant] [info] auto_upgrade_weapons = true
+[2025-02-18 23:42:07.455] [merchant] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 23:42:07.456] [merchant] [info] Waiting for params...
+[2025-02-18 23:42:19.460] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...
+[2025-02-18 23:42:29.460] [merchant] [info] Hooking messages...
+[2025-02-18 23:42:29.460] [merchant] [info] Detected language "english"
+[2025-02-18 23:42:29.462] [merchant] [info] Hooking shops...
+[2025-02-18 23:42:29.462] [merchant] [info] weapon_lineups = 0x7ffd58f95a78
+[2025-02-18 23:42:29.462] [merchant] [info] armor_lineups = 0x7ffd58f95a98
+[2025-02-18 23:42:29.462] [merchant] [info] spell_lineups = 0x7ffd58f95ab8
+[2025-02-18 23:42:29.462] [merchant] [info] talisman_lineups = 0x7ffd58f95ad8
+[2025-02-18 23:42:29.462] [merchant] [info] ammunition_lineups = 0x7ffd58f95af8
+[2025-02-18 23:42:29.462] [merchant] [info] ash_of_war_lineups = 0x7ffd58f95b18
+[2025-02-18 23:42:29.462] [merchant] [info] spirit_summon_lineups = 0x7ffd58f95b38
+[2025-02-18 23:42:29.462] [merchant] [info] consumable_lineups = 0x7ffd58f95b58
+[2025-02-18 23:42:29.462] [merchant] [info] material_lineups = 0x7ffd58f95b78
+[2025-02-18 23:42:29.462] [merchant] [info] miscellaneous_item_lineups = 0x7ffd58f95b98
+[2025-02-18 23:42:29.462] [merchant] [info] cut_good_lineups = 0x7ffd58f95bb8
+[2025-02-18 23:42:29.462] [merchant] [info] cut_armor_lineups = 0x7ffd58f95bd8
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_weapon_lineups = 0x7ffd58f95bf8
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_armor_lineups = 0x7ffd58f95c18
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_spell_lineups = 0x7ffd58f95c38
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_talisman_lineups = 0x7ffd58f95c58
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_ammunition_lineups = 0x7ffd58f95c78
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_ashes_of_war_lineups = 0x7ffd58f95c98
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_spirit_summon_lineups = 0x7ffd58f95cb8
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_consumable_lineups = 0x7ffd58f95cd8
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_material_lineups = 0x7ffd58f95cf8
+[2025-02-18 23:42:29.462] [merchant] [info] dlc_miscellaneous_item_lineups = 0x7ffd58f95d18
+[2025-02-18 23:42:29.467] [merchant] [info] Hooking talkscripts...
+[2025-02-18 23:42:29.531] [merchant] [info] Initialized mod
+[2025-02-18 23:42:58.531] [merchant] [info] Deinitialized mod
+[2025-02-18 23:43:08.609] [merchant] [info] Glorious Merchant version 1.1.5
+[2025-02-18 23:43:08.609] [merchant] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ermerchant.ini
+[2025-02-18 23:43:08.609] [merchant] [info] auto_upgrade_weapons = true
+[2025-02-18 23:43:08.609] [merchant] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 23:43:08.610] [merchant] [info] Waiting for params...
+[2025-02-18 23:43:20.615] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...
+[2025-02-18 23:43:30.615] [merchant] [info] Hooking messages...
+[2025-02-18 23:43:30.615] [merchant] [info] Detected language "english"
+[2025-02-18 23:43:30.617] [merchant] [info] Hooking shops...
+[2025-02-18 23:43:30.617] [merchant] [info] weapon_lineups = 0x7ffd18b65a78
+[2025-02-18 23:43:30.617] [merchant] [info] armor_lineups = 0x7ffd18b65a98
+[2025-02-18 23:43:30.617] [merchant] [info] spell_lineups = 0x7ffd18b65ab8
+[2025-02-18 23:43:30.617] [merchant] [info] talisman_lineups = 0x7ffd18b65ad8
+[2025-02-18 23:43:30.617] [merchant] [info] ammunition_lineups = 0x7ffd18b65af8
+[2025-02-18 23:43:30.617] [merchant] [info] ash_of_war_lineups = 0x7ffd18b65b18
+[2025-02-18 23:43:30.617] [merchant] [info] spirit_summon_lineups = 0x7ffd18b65b38
+[2025-02-18 23:43:30.617] [merchant] [info] consumable_lineups = 0x7ffd18b65b58
+[2025-02-18 23:43:30.617] [merchant] [info] material_lineups = 0x7ffd18b65b78
+[2025-02-18 23:43:30.617] [merchant] [info] miscellaneous_item_lineups = 0x7ffd18b65b98
+[2025-02-18 23:43:30.617] [merchant] [info] cut_good_lineups = 0x7ffd18b65bb8
+[2025-02-18 23:43:30.617] [merchant] [info] cut_armor_lineups = 0x7ffd18b65bd8
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_weapon_lineups = 0x7ffd18b65bf8
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_armor_lineups = 0x7ffd18b65c18
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_spell_lineups = 0x7ffd18b65c38
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_talisman_lineups = 0x7ffd18b65c58
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_ammunition_lineups = 0x7ffd18b65c78
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_ashes_of_war_lineups = 0x7ffd18b65c98
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_spirit_summon_lineups = 0x7ffd18b65cb8
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_consumable_lineups = 0x7ffd18b65cd8
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_material_lineups = 0x7ffd18b65cf8
+[2025-02-18 23:43:30.617] [merchant] [info] dlc_miscellaneous_item_lineups = 0x7ffd18b65d18
+[2025-02-18 23:43:30.673] [merchant] [info] Hooking talkscripts...
+[2025-02-18 23:43:30.720] [merchant] [info] Initialized mod
+[2025-02-18 23:43:59.690] [merchant] [info] Deinitialized mod

@@ -1,0 +1,23 @@
+[2025-03-01 14:11:27.170] [modengine] [info] Attempting to load global config at D:\Elden Ring Mods\CCW 3.6.9xx\modengine2\config.toml
+[2025-03-01 14:11:27.170] [modengine] [info] Attempting to load mod settings config at D:\Elden Ring Mods\CCW 3.6.9xx\config_eldenring.toml
+[2025-03-01 14:11:27.177] [modengine] [info] Local config loaded
+[2025-03-01 14:11:27.178] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-03-01 14:11:27.178] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-03-01 14:11:27.178] [modengine] [info] Main thread ID: 7448
+[2025-03-01 14:11:27.237] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.6.9xx\SeamlessCoop/ersc.dll
+[2025-03-01 14:11:29.949] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.6.9xx\mod/ertransmogrify.dll
+[2025-03-01 14:11:29.949] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.6.9xx\mod/ertransmogrify.dll at base address 0x7ff846640000 is not a modengine extension
+[2025-03-01 14:11:30.109] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.6.9xx\mod/eldenring_alt_saves.dll
+[2025-03-01 14:11:30.109] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.6.9xx\mod/eldenring_alt_saves.dll at base address 0x7ff8460f0000 is not a modengine extension
+[2025-03-01 14:11:30.163] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.6.9xx\mod/ErdTools.dll
+[2025-03-01 14:11:30.163] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.6.9xx\mod/ErdTools.dll at base address 0x7ff846f10000 is not a modengine extension
+[2025-03-01 14:11:30.223] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.6.9xx\mod/ermerchant.dll
+[2025-03-01 14:11:30.223] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.6.9xx\mod/ermerchant.dll at base address 0x7fffc8580000 is not a modengine extension
+[2025-03-01 14:11:30.223] [modengine] [info] Enabling extension base
+[2025-03-01 14:11:30.223] [modengine] [info] Enabled extension base
+[2025-03-01 14:11:30.223] [modengine] [info] Enabling extension mod_loader
+[2025-03-01 14:11:30.223] [modengine] [info] Installing mod location mod
+[2025-03-01 14:11:30.223] [modengine] [info] Resolved mod path to D:\Elden Ring Mods\CCW 3.6.9xx\mod
+[2025-03-01 14:11:30.223] [modengine] [info] Enabled extension mod_loader
+[2025-03-01 14:11:30.321] [modengine] [info] Applied 4 hooks
+[2025-03-01 14:11:30.325] [modengine] [info] Starting worker thread

@@ -1,0 +1,54 @@
+[2025-02-23 18:11:11.980] [transmog] [info] Transmog version 2.3.8
+[2025-02-23 18:11:11.981] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.6.9x\mod\ertransmogrify.ini
+[2025-02-23 18:11:11.987] [transmog] [info] include_unobtained_armor = true 
+[2025-02-23 18:11:11.987] [transmog] [info] include_cut_armor = true 
+[2025-02-23 18:11:11.987] [transmog] [info] include_dlc_armor = true 
+[2025-02-23 18:11:11.987] [transmog] [info] transmog_affects_posture = true 
+[2025-02-23 18:11:11.987] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-23 18:11:11.987] [transmog] [info] initialize_delay = 2000 
+[2025-02-23 18:11:11.987] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-23 18:11:11.988] [transmog] [info] Waiting for params...
+[2025-02-23 18:11:22.994] [transmog] [info] Hooking transmog messages...
+[2025-02-23 18:11:22.995] [transmog] [info] Waiting for messages...
+[2025-02-23 18:11:22.996] [transmog] [info] Detected game language = english
+[2025-02-23 18:11:22.996] [transmog] [info] Adding transmog VFX...
+[2025-02-23 18:11:24.001] [transmog] [info] SpEffect IDs = 169006676 169006677
+[2025-02-23 18:11:24.001] [transmog] [info] Adding transmog shops...
+[2025-02-23 18:11:25.007] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-23 18:11:27.062] [transmog] [info] Initialized transmog
+[2025-02-23 18:11:48.123] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:12:23.716] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:13:23.187] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:16:31.230] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:23:08.827] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:41:59.520] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:44:10.459] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:44:39.790] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:45:55.333] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:48:46.001] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:50:01.795] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:53:56.569] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 18:59:28.286] [transmog] [info] Transmog version 2.3.8
+[2025-02-23 18:59:28.286] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.6.9x\mod\ertransmogrify.ini
+[2025-02-23 18:59:28.287] [transmog] [info] include_unobtained_armor = true 
+[2025-02-23 18:59:28.287] [transmog] [info] include_cut_armor = true 
+[2025-02-23 18:59:28.287] [transmog] [info] include_dlc_armor = true 
+[2025-02-23 18:59:28.287] [transmog] [info] transmog_affects_posture = true 
+[2025-02-23 18:59:28.287] [transmog] [info] patch_grace_talk_script = true 
+[2025-02-23 18:59:28.287] [transmog] [info] initialize_delay = 2000 
+[2025-02-23 18:59:28.288] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-23 18:59:28.289] [transmog] [info] Waiting for params...
+[2025-02-23 18:59:39.312] [transmog] [info] Hooking transmog messages...
+[2025-02-23 18:59:39.312] [transmog] [info] Waiting for messages...
+[2025-02-23 18:59:39.313] [transmog] [info] Detected game language = english
+[2025-02-23 18:59:39.313] [transmog] [info] Adding transmog VFX...
+[2025-02-23 18:59:40.318] [transmog] [info] SpEffect IDs = 169283396 169283397
+[2025-02-23 18:59:40.318] [transmog] [info] Adding transmog shops...
+[2025-02-23 18:59:41.322] [transmog] [info] Hooking talk scripts...
+[2025-02-23 18:59:41.324] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-23 18:59:43.410] [transmog] [info] Initialized transmog
+[2025-02-23 19:00:01.643] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-23 19:00:18.301] [transmog] [info] Patched state group x31
+[2025-02-23 19:02:42.989] [transmog] [info] Set main player transmog protector 1901000
+[2025-02-23 19:02:54.968] [transmog] [info] Set main player transmog protector 5253000
+[2025-02-23 19:03:03.770] [transmog] [info] Main player - undoing transmog

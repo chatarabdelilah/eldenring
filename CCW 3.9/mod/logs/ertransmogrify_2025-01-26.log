@@ -1,0 +1,20 @@
+[2025-01-26 22:10:08.115] [transmog] [info] Transmog version 2.3.8
+[2025-01-26 22:10:08.115] [transmog] [info] Loading config from D:\SteamLibrary\steamapps\common\ELDEN RING\Game\ME2\mod\ertransmogrify.ini
+[2025-01-26 22:10:08.123] [transmog] [info] include_unobtained_armor = true 
+[2025-01-26 22:10:08.123] [transmog] [info] include_cut_armor = true 
+[2025-01-26 22:10:08.123] [transmog] [info] include_dlc_armor = true 
+[2025-01-26 22:10:08.123] [transmog] [info] transmog_affects_posture = true 
+[2025-01-26 22:10:08.123] [transmog] [info] patch_grace_talk_script = false 
+[2025-01-26 22:10:08.123] [transmog] [info] initialize_delay = 2000 
+[2025-01-26 22:10:08.123] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-01-26 22:10:08.125] [transmog] [info] Waiting for params...
+[2025-01-26 22:10:22.133] [transmog] [info] Hooking transmog messages...
+[2025-01-26 22:10:22.134] [transmog] [info] Waiting for messages...
+[2025-01-26 22:10:22.135] [transmog] [info] Detected game language = english
+[2025-01-26 22:10:22.135] [transmog] [info] Adding transmog VFX...
+[2025-01-26 22:10:23.141] [transmog] [info] SpEffect IDs = 169202680 169202681
+[2025-01-26 22:10:23.141] [transmog] [info] Adding transmog shops...
+[2025-01-26 22:10:24.146] [transmog] [info] Waiting 2000ms to enable...
+[2025-01-26 22:10:26.212] [transmog] [info] Initialized transmog
+[2025-01-26 22:11:29.764] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-01-26 22:12:53.342] [transmog] [info] Loaded main player - clearing previous transmog

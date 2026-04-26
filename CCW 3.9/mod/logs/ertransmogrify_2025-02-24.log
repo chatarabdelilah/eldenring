@@ -1,0 +1,10 @@
+[2025-02-24 00:27:16.093] [transmog] [info] Transmog version 2.3.8
+[2025-02-24 00:27:16.093] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.6.9xx\mod\ertransmogrify.ini
+[2025-02-24 00:27:16.094] [transmog] [info] include_unobtained_armor = true 
+[2025-02-24 00:27:16.094] [transmog] [info] include_cut_armor = true 
+[2025-02-24 00:27:16.094] [transmog] [info] include_dlc_armor = true 
+[2025-02-24 00:27:16.094] [transmog] [info] transmog_affects_posture = true 
+[2025-02-24 00:27:16.094] [transmog] [info] patch_grace_talk_script = true 
+[2025-02-24 00:27:16.094] [transmog] [info] initialize_delay = 2000 
+[2025-02-24 00:27:16.094] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-24 00:27:16.096] [transmog] [info] Waiting for params...

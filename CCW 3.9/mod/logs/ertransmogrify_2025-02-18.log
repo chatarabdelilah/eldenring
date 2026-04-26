@@ -1,0 +1,114 @@
+[2025-02-18 22:12:55.282] [transmog] [info] Transmog version 2.3.8
+[2025-02-18 22:12:55.283] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-18 22:12:55.283] [transmog] [info] include_unobtained_armor = true 
+[2025-02-18 22:12:55.283] [transmog] [info] include_cut_armor = true 
+[2025-02-18 22:12:55.283] [transmog] [info] include_dlc_armor = true 
+[2025-02-18 22:12:55.283] [transmog] [info] transmog_affects_posture = true 
+[2025-02-18 22:12:55.283] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-18 22:12:55.283] [transmog] [info] initialize_delay = 2000 
+[2025-02-18 22:12:55.284] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 22:12:55.285] [transmog] [info] Waiting for params...
+[2025-02-18 22:13:07.293] [transmog] [info] Hooking transmog messages...
+[2025-02-18 22:13:07.294] [transmog] [info] Waiting for messages...
+[2025-02-18 22:13:07.295] [transmog] [info] Detected game language = english
+[2025-02-18 22:13:07.295] [transmog] [info] Adding transmog VFX...
+[2025-02-18 22:13:08.300] [transmog] [info] SpEffect IDs = 169378832 169378833
+[2025-02-18 22:13:08.300] [transmog] [info] Adding transmog shops...
+[2025-02-18 22:13:09.306] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-18 22:13:11.363] [transmog] [info] Initialized transmog
+[2025-02-18 22:13:28.527] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:13:58.124] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:14:00.741] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:16:24.069] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:16:41.526] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:18:10.386] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:18:12.867] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:20:06.569] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:20:09.895] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:23:25.750] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:23:43.570] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:26:45.434] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:26:48.680] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:29:39.399] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:29:43.060] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:29:59.295] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:30:06.080] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:31:17.003] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:31:23.552] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:40:26.838] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:40:43.991] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:41:27.780] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:41:34.295] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:43:54.504] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:43:57.122] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 22:58:12.803] [transmog] [info] Transmog version 2.3.8
+[2025-02-18 22:58:12.803] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-18 22:58:12.803] [transmog] [info] include_unobtained_armor = true 
+[2025-02-18 22:58:12.803] [transmog] [info] include_cut_armor = true 
+[2025-02-18 22:58:12.803] [transmog] [info] include_dlc_armor = true 
+[2025-02-18 22:58:12.803] [transmog] [info] transmog_affects_posture = true 
+[2025-02-18 22:58:12.803] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-18 22:58:12.804] [transmog] [info] initialize_delay = 2000 
+[2025-02-18 22:58:12.804] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 22:58:12.805] [transmog] [info] Waiting for params...
+[2025-02-18 22:58:23.810] [transmog] [info] Hooking transmog messages...
+[2025-02-18 22:58:23.811] [transmog] [info] Waiting for messages...
+[2025-02-18 22:58:23.812] [transmog] [info] Detected game language = english
+[2025-02-18 22:58:23.812] [transmog] [info] Adding transmog VFX...
+[2025-02-18 22:58:24.817] [transmog] [info] SpEffect IDs = 169057774 169057775
+[2025-02-18 22:58:24.817] [transmog] [info] Adding transmog shops...
+[2025-02-18 22:58:25.821] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-18 22:58:27.876] [transmog] [info] Initialized transmog
+[2025-02-18 22:58:44.498] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:59:10.691] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 22:59:13.428] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:09:49.777] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:10:07.902] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:15:52.391] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:16:19.953] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:16:23.055] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:18:25.211] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:19:10.308] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:19:13.443] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:19:13.443] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:21:21.288] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:21:24.390] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:21:24.424] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-18 23:21:44.572] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:21:57.770] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-18 23:42:07.323] [transmog] [info] Transmog version 2.3.8
+[2025-02-18 23:42:07.323] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-18 23:42:07.323] [transmog] [info] include_unobtained_armor = true 
+[2025-02-18 23:42:07.323] [transmog] [info] include_cut_armor = true 
+[2025-02-18 23:42:07.323] [transmog] [info] include_dlc_armor = true 
+[2025-02-18 23:42:07.323] [transmog] [info] transmog_affects_posture = true 
+[2025-02-18 23:42:07.323] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-18 23:42:07.323] [transmog] [info] initialize_delay = 2000 
+[2025-02-18 23:42:07.323] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 23:42:07.325] [transmog] [info] Waiting for params...
+[2025-02-18 23:42:19.333] [transmog] [info] Hooking transmog messages...
+[2025-02-18 23:42:19.334] [transmog] [info] Waiting for messages...
+[2025-02-18 23:42:19.335] [transmog] [info] Detected game language = english
+[2025-02-18 23:42:19.335] [transmog] [info] Adding transmog VFX...
+[2025-02-18 23:42:20.340] [transmog] [info] SpEffect IDs = 169000518 169000519
+[2025-02-18 23:42:20.340] [transmog] [info] Adding transmog shops...
+[2025-02-18 23:42:21.345] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-18 23:42:23.433] [transmog] [info] Initialized transmog
+[2025-02-18 23:43:08.492] [transmog] [info] Transmog version 2.3.8
+[2025-02-18 23:43:08.492] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-18 23:43:08.492] [transmog] [info] include_unobtained_armor = true 
+[2025-02-18 23:43:08.492] [transmog] [info] include_cut_armor = true 
+[2025-02-18 23:43:08.492] [transmog] [info] include_dlc_armor = true 
+[2025-02-18 23:43:08.492] [transmog] [info] transmog_affects_posture = true 
+[2025-02-18 23:43:08.492] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-18 23:43:08.492] [transmog] [info] initialize_delay = 2000 
+[2025-02-18 23:43:08.492] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-18 23:43:08.493] [transmog] [info] Waiting for params...
+[2025-02-18 23:43:20.499] [transmog] [info] Hooking transmog messages...
+[2025-02-18 23:43:20.499] [transmog] [info] Waiting for messages...
+[2025-02-18 23:43:20.500] [transmog] [info] Detected game language = english
+[2025-02-18 23:43:20.500] [transmog] [info] Adding transmog VFX...
+[2025-02-18 23:43:21.505] [transmog] [info] SpEffect IDs = 169374590 169374591
+[2025-02-18 23:43:21.505] [transmog] [info] Adding transmog shops...
+[2025-02-18 23:43:22.511] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-18 23:43:24.562] [transmog] [info] Initialized transmog

@@ -1,0 +1,68 @@
+[2026-03-30 20:00:11.666] [transmog] [info] Transmog version 2.3.8
+[2026-03-30 20:00:11.666] [transmog] [info] Loading config from C:\Users\Bahme\Desktop\CCW 3.9\mod\ertransmogrify.ini
+[2026-03-30 20:00:11.671] [transmog] [info] include_unobtained_armor = true 
+[2026-03-30 20:00:11.671] [transmog] [info] include_cut_armor = true 
+[2026-03-30 20:00:11.671] [transmog] [info] include_dlc_armor = true 
+[2026-03-30 20:00:11.671] [transmog] [info] transmog_affects_posture = true 
+[2026-03-30 20:00:11.671] [transmog] [info] patch_grace_talk_script = true 
+[2026-03-30 20:00:11.671] [transmog] [info] initialize_delay = 2000 
+[2026-03-30 20:00:11.672] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2026-03-30 20:00:11.814] [transmog] [info] Waiting for params...
+[2026-03-30 20:00:22.830] [transmog] [info] Hooking transmog messages...
+[2026-03-30 20:00:22.830] [transmog] [info] Waiting for messages...
+[2026-03-30 20:00:22.832] [transmog] [info] Detected game language = english
+[2026-03-30 20:00:22.832] [transmog] [info] Adding transmog VFX...
+[2026-03-30 20:00:23.837] [transmog] [info] SpEffect IDs = 169232892 169232893
+[2026-03-30 20:00:23.837] [transmog] [info] Adding transmog shops...
+[2026-03-30 20:00:24.842] [transmog] [info] Hooking talk scripts...
+[2026-03-30 20:00:24.844] [transmog] [info] Waiting 2000ms to enable...
+[2026-03-30 20:00:26.883] [transmog] [info] Initialized transmog
+[2026-03-30 20:01:38.649] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:04:13.876] [transmog] [info] Patched state group x31
+[2026-03-30 20:52:38.126] [transmog] [info] Transmog version 2.3.8
+[2026-03-30 20:52:38.126] [transmog] [info] Loading config from C:\Users\Bahme\Desktop\CCW 3.9\mod\ertransmogrify.ini
+[2026-03-30 20:52:38.126] [transmog] [info] include_unobtained_armor = true 
+[2026-03-30 20:52:38.126] [transmog] [info] include_cut_armor = true 
+[2026-03-30 20:52:38.126] [transmog] [info] include_dlc_armor = true 
+[2026-03-30 20:52:38.126] [transmog] [info] transmog_affects_posture = true 
+[2026-03-30 20:52:38.126] [transmog] [info] patch_grace_talk_script = true 
+[2026-03-30 20:52:38.126] [transmog] [info] initialize_delay = 2000 
+[2026-03-30 20:52:38.127] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2026-03-30 20:52:38.129] [transmog] [info] Waiting for params...
+[2026-03-30 20:53:13.026] [transmog] [info] Transmog version 2.3.8
+[2026-03-30 20:53:13.026] [transmog] [info] Loading config from C:\Users\Bahme\Desktop\CCW 3.9\mod\ertransmogrify.ini
+[2026-03-30 20:53:13.026] [transmog] [info] include_unobtained_armor = true 
+[2026-03-30 20:53:13.026] [transmog] [info] include_cut_armor = true 
+[2026-03-30 20:53:13.026] [transmog] [info] include_dlc_armor = true 
+[2026-03-30 20:53:13.026] [transmog] [info] transmog_affects_posture = true 
+[2026-03-30 20:53:13.026] [transmog] [info] patch_grace_talk_script = true 
+[2026-03-30 20:53:13.026] [transmog] [info] initialize_delay = 2000 
+[2026-03-30 20:53:13.027] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2026-03-30 20:53:13.032] [transmog] [info] Waiting for params...
+[2026-03-30 20:53:22.045] [transmog] [info] Hooking transmog messages...
+[2026-03-30 20:53:22.046] [transmog] [info] Waiting for messages...
+[2026-03-30 20:53:22.046] [transmog] [info] Detected game language = english
+[2026-03-30 20:53:22.046] [transmog] [info] Adding transmog VFX...
+[2026-03-30 20:53:23.049] [transmog] [info] SpEffect IDs = 169187012 169187013
+[2026-03-30 20:53:23.049] [transmog] [info] Adding transmog shops...
+[2026-03-30 20:53:24.054] [transmog] [info] Hooking talk scripts...
+[2026-03-30 20:53:24.055] [transmog] [info] Waiting 2000ms to enable...
+[2026-03-30 20:53:26.094] [transmog] [info] Initialized transmog
+[2026-03-30 20:53:54.059] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:55:43.281] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:56:25.438] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:58:04.974] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:58:19.194] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:58:51.859] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 20:59:52.295] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:01:29.776] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:01:48.365] [transmog] [info] Patched state group x31
+[2026-03-30 21:02:00.620] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:03:16.946] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:03:41.161] [transmog] [info] Patched state group x31
+[2026-03-30 21:03:53.232] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:04:57.354] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:05:40.032] [transmog] [info] Patched state group x31
+[2026-03-30 21:05:50.718] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:06:01.038] [transmog] [info] Loaded main player - clearing previous transmog
+[2026-03-30 21:10:39.635] [transmog] [info] Patched state group x31

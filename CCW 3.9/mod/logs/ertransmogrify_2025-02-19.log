@@ -1,0 +1,131 @@
+[2025-02-19 00:16:26.044] [transmog] [info] Transmog version 2.3.8
+[2025-02-19 00:16:26.044] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-19 00:16:26.044] [transmog] [info] include_unobtained_armor = true 
+[2025-02-19 00:16:26.044] [transmog] [info] include_cut_armor = true 
+[2025-02-19 00:16:26.045] [transmog] [info] include_dlc_armor = true 
+[2025-02-19 00:16:26.045] [transmog] [info] transmog_affects_posture = true 
+[2025-02-19 00:16:26.045] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-19 00:16:26.045] [transmog] [info] initialize_delay = 2000 
+[2025-02-19 00:16:26.045] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-19 00:16:26.047] [transmog] [info] Waiting for params...
+[2025-02-19 00:16:45.435] [transmog] [info] Transmog version 2.3.8
+[2025-02-19 00:16:45.435] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-19 00:16:45.435] [transmog] [info] include_unobtained_armor = true 
+[2025-02-19 00:16:45.435] [transmog] [info] include_cut_armor = true 
+[2025-02-19 00:16:45.435] [transmog] [info] include_dlc_armor = true 
+[2025-02-19 00:16:45.435] [transmog] [info] transmog_affects_posture = true 
+[2025-02-19 00:16:45.435] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-19 00:16:45.435] [transmog] [info] initialize_delay = 2000 
+[2025-02-19 00:16:45.435] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-19 00:16:45.436] [transmog] [info] Waiting for params...
+[2025-02-19 00:16:56.441] [transmog] [info] Hooking transmog messages...
+[2025-02-19 00:16:56.442] [transmog] [info] Waiting for messages...
+[2025-02-19 00:16:56.443] [transmog] [info] Detected game language = english
+[2025-02-19 00:16:56.443] [transmog] [info] Adding transmog VFX...
+[2025-02-19 00:16:57.448] [transmog] [info] SpEffect IDs = 169351946 169351947
+[2025-02-19 00:16:57.448] [transmog] [info] Adding transmog shops...
+[2025-02-19 00:16:58.454] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-19 00:17:00.517] [transmog] [info] Initialized transmog
+[2025-02-19 00:17:20.498] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:17:48.029] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:17:51.051] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:22:28.512] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:22:45.605] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:26:19.028] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:27:56.130] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:27:57.754] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:38:13.031] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:38:30.819] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:38:36.410] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:38:38.548] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:40:33.724] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:40:50.836] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:47:51.590] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:48:13.323] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:48:15.248] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 00:51:53.430] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:52:20.935] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 00:52:45.237] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:04:07.543] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:04:09.596] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:05:41.058] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:06:26.619] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:07:43.473] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:13:25.142] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:13:27.186] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:13:51.546] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:13:54.815] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:14:39.600] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:14:41.905] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:15:19.456] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:17:16.949] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:17:19.266] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:18:37.132] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:18:39.355] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:19:34.803] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:26:00.142] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:26:02.115] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:26:18.240] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:26:21.719] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:36:59.581] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:37:01.640] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:38:24.474] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:38:26.868] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:45:04.287] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:45:05.652] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:46:43.515] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:46:46.009] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:47:10.239] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:49:53.696] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:52:54.989] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:52:56.752] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:53:35.839] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:53:37.527] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 01:53:47.975] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 01:53:49.699] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:03:49.231] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:03:51.072] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:06:01.720] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:06:03.096] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:08:35.079] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:08:36.267] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:09:42.185] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:10:01.324] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:10:27.127] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:10:28.389] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:11:50.796] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:11:51.992] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:14:04.289] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:14:05.447] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:15:06.117] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:15:10.139] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:16:53.990] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:16:55.171] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:17:25.121] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:17:27.384] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:19:51.118] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:19:52.299] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 02:21:07.391] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 02:21:09.854] [transmog] [info] Net player joined - forcing refresh of main player transmog
+[2025-02-19 04:01:56.467] [transmog] [info] Transmog version 2.3.8
+[2025-02-19 04:01:56.467] [transmog] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\ertransmogrify.ini
+[2025-02-19 04:01:56.467] [transmog] [info] include_unobtained_armor = true 
+[2025-02-19 04:01:56.467] [transmog] [info] include_cut_armor = true 
+[2025-02-19 04:01:56.467] [transmog] [info] include_dlc_armor = true 
+[2025-02-19 04:01:56.467] [transmog] [info] transmog_affects_posture = true 
+[2025-02-19 04:01:56.467] [transmog] [info] patch_grace_talk_script = false 
+[2025-02-19 04:01:56.467] [transmog] [info] initialize_delay = 2000 
+[2025-02-19 04:01:56.468] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-19 04:01:56.469] [transmog] [info] Waiting for params...
+[2025-02-19 04:02:08.474] [transmog] [info] Hooking transmog messages...
+[2025-02-19 04:02:08.475] [transmog] [info] Waiting for messages...
+[2025-02-19 04:02:08.476] [transmog] [info] Detected game language = english
+[2025-02-19 04:02:08.476] [transmog] [info] Adding transmog VFX...
+[2025-02-19 04:02:09.481] [transmog] [info] SpEffect IDs = 169284856 169284857
+[2025-02-19 04:02:09.481] [transmog] [info] Adding transmog shops...
+[2025-02-19 04:02:10.486] [transmog] [info] Waiting 2000ms to enable...
+[2025-02-19 04:02:12.550] [transmog] [info] Initialized transmog
+[2025-02-19 04:02:32.716] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 04:02:54.131] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 04:04:14.746] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-02-19 04:04:35.945] [transmog] [info] Loaded main player - clearing previous transmog

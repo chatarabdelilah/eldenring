@@ -1,0 +1,81 @@
+[2025-06-17 16:17:19.176] [transmog] [info] Transmog version 2.3.8
+[2025-06-17 16:17:19.176] [transmog] [info] Loading config from C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod\ertransmogrify.ini
+[2025-06-17 16:17:19.183] [transmog] [info] include_unobtained_armor = true 
+[2025-06-17 16:17:19.183] [transmog] [info] include_cut_armor = true 
+[2025-06-17 16:17:19.183] [transmog] [info] include_dlc_armor = true 
+[2025-06-17 16:17:19.183] [transmog] [info] transmog_affects_posture = true 
+[2025-06-17 16:17:19.183] [transmog] [info] patch_grace_talk_script = true 
+[2025-06-17 16:17:19.183] [transmog] [info] initialize_delay = 2000 
+[2025-06-17 16:17:19.184] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-06-17 16:17:19.191] [transmog] [info] Waiting for params...
+[2025-06-17 16:17:36.218] [transmog] [info] Hooking transmog messages...
+[2025-06-17 16:17:36.220] [transmog] [info] Waiting for messages...
+[2025-06-17 16:17:36.222] [transmog] [info] Detected game language = english
+[2025-06-17 16:17:36.222] [transmog] [info] Adding transmog VFX...
+[2025-06-17 16:17:37.230] [transmog] [info] SpEffect IDs = 169239552 169239553
+[2025-06-17 16:17:37.230] [transmog] [info] Adding transmog shops...
+[2025-06-17 16:17:38.239] [transmog] [info] Hooking talk scripts...
+[2025-06-17 16:17:38.242] [transmog] [info] Waiting 2000ms to enable...
+[2025-06-17 16:17:40.360] [transmog] [info] Initialized transmog
+[2025-06-17 16:20:13.783] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 16:21:26.469] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 16:25:00.459] [transmog] [info] Patched state group x31
+[2025-06-17 16:32:04.990] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 16:37:44.506] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 16:43:35.699] [transmog] [info] Patched state group x31
+[2025-06-17 16:44:38.680] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 16:46:04.937] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 16:50:25.730] [transmog] [info] Patched state group x31
+[2025-06-17 17:00:48.618] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:06:32.630] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:07:12.245] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:12:44.475] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:13:02.618] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:15:49.910] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:19:53.506] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:23:05.263] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:24:23.935] [transmog] [info] Patched state group x31
+[2025-06-17 17:24:48.197] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:31:38.948] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:32:21.539] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:32:57.418] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:33:52.907] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:34:42.414] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:38:01.537] [transmog] [info] Patched state group x31
+[2025-06-17 17:38:25.239] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:38:37.239] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:40:05.649] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:40:18.019] [transmog] [info] Patched state group x31
+[2025-06-17 17:41:21.964] [transmog] [info] Transmog version 2.3.8
+[2025-06-17 17:41:21.964] [transmog] [info] Loading config from C:\Users\Vibezzify\Desktop\CCW 3.7.5\mod\ertransmogrify.ini
+[2025-06-17 17:41:21.976] [transmog] [info] include_unobtained_armor = true 
+[2025-06-17 17:41:21.976] [transmog] [info] include_cut_armor = true 
+[2025-06-17 17:41:21.976] [transmog] [info] include_dlc_armor = true 
+[2025-06-17 17:41:21.976] [transmog] [info] transmog_affects_posture = true 
+[2025-06-17 17:41:21.976] [transmog] [info] patch_grace_talk_script = true 
+[2025-06-17 17:41:21.976] [transmog] [info] initialize_delay = 2000 
+[2025-06-17 17:41:21.977] [transmog] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-06-17 17:41:21.987] [transmog] [info] Waiting for params...
+[2025-06-17 17:41:36.998] [transmog] [info] Hooking transmog messages...
+[2025-06-17 17:41:37.000] [transmog] [info] Waiting for messages...
+[2025-06-17 17:41:37.002] [transmog] [info] Detected game language = english
+[2025-06-17 17:41:37.002] [transmog] [info] Adding transmog VFX...
+[2025-06-17 17:41:38.007] [transmog] [info] SpEffect IDs = 169451284 169451285
+[2025-06-17 17:41:38.008] [transmog] [info] Adding transmog shops...
+[2025-06-17 17:41:39.013] [transmog] [info] Hooking talk scripts...
+[2025-06-17 17:41:39.015] [transmog] [info] Waiting 2000ms to enable...
+[2025-06-17 17:41:41.074] [transmog] [info] Initialized transmog
+[2025-06-17 17:42:04.380] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:42:41.935] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:42:53.691] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:44:00.241] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:44:10.234] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:45:21.768] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:46:23.327] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:46:33.967] [transmog] [info] Patched state group x31
+[2025-06-17 17:47:45.396] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:48:31.711] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:49:21.362] [transmog] [info] Patched state group x31
+[2025-06-17 17:50:48.265] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:53:22.501] [transmog] [info] Loaded main player - clearing previous transmog
+[2025-06-17 17:53:37.599] [transmog] [info] Patched state group x31

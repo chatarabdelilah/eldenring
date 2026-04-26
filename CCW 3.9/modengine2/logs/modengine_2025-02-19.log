@@ -1,0 +1,87 @@
+[2025-02-19 00:16:23.847] [modengine] [info] Attempting to load global config at D:\Elden Ring Mods\CCW 3.5x\modengine2\config.toml
+[2025-02-19 00:16:23.847] [modengine] [info] Attempting to load mod settings config at D:\Elden Ring Mods\CCW 3.5x\config_eldenring.toml
+[2025-02-19 00:16:23.848] [modengine] [info] Local config loaded
+[2025-02-19 00:16:23.848] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-02-19 00:16:23.848] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-02-19 00:16:23.848] [modengine] [info] Main thread ID: 11716
+[2025-02-19 00:16:23.853] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\SeamlessCoop/ersc.dll
+[2025-02-19 00:16:26.045] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ertransmogrify.dll
+[2025-02-19 00:16:26.045] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ertransmogrify.dll at base address 0x7ffd05cc0000 is not a modengine extension
+[2025-02-19 00:16:26.045] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ErdTools.dll
+[2025-02-19 00:16:26.045] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ErdTools.dll at base address 0x7ffd59b10000 is not a modengine extension
+[2025-02-19 00:16:26.100] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/eldenring_alt_saves.dll
+[2025-02-19 00:16:26.100] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/eldenring_alt_saves.dll at base address 0x7ffd04970000 is not a modengine extension
+[2025-02-19 00:16:26.160] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/Scripts-Data-Exposer-FS.dll
+[2025-02-19 00:16:26.160] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffd59970000 is not a modengine extension
+[2025-02-19 00:16:26.163] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/erdyes.dll
+[2025-02-19 00:16:26.163] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/erdyes.dll at base address 0x7ffd35fd0000 is not a modengine extension
+[2025-02-19 00:16:26.165] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ermerchant.dll
+[2025-02-19 00:16:26.165] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ermerchant.dll at base address 0x7ffd18af0000 is not a modengine extension
+[2025-02-19 00:16:26.165] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/SetCPUAffinity.dll
+[2025-02-19 00:16:26.165] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/SetCPUAffinity.dll at base address 0x7ffd5ef20000 is not a modengine extension
+[2025-02-19 00:16:26.165] [modengine] [info] Enabling extension base
+[2025-02-19 00:16:26.165] [modengine] [info] Enabled extension base
+[2025-02-19 00:16:26.165] [modengine] [info] Enabling extension mod_loader
+[2025-02-19 00:16:26.165] [modengine] [info] Installing mod location mod
+[2025-02-19 00:16:26.165] [modengine] [info] Resolved mod path to D:\Elden Ring Mods\CCW 3.5x\mod
+[2025-02-19 00:16:26.165] [modengine] [info] Enabled extension mod_loader
+[2025-02-19 00:16:26.273] [modengine] [info] Applied 4 hooks
+[2025-02-19 00:16:26.276] [modengine] [info] Starting worker thread
+[2025-02-19 00:16:43.159] [modengine] [info] Attempting to load global config at D:\Elden Ring Mods\CCW 3.5x\modengine2\config.toml
+[2025-02-19 00:16:43.159] [modengine] [info] Attempting to load mod settings config at D:\Elden Ring Mods\CCW 3.5x\config_eldenring.toml
+[2025-02-19 00:16:43.159] [modengine] [info] Local config loaded
+[2025-02-19 00:16:43.159] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-02-19 00:16:43.159] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-02-19 00:16:43.159] [modengine] [info] Main thread ID: 18084
+[2025-02-19 00:16:43.164] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\SeamlessCoop/ersc.dll
+[2025-02-19 00:16:45.435] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ertransmogrify.dll
+[2025-02-19 00:16:45.435] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ertransmogrify.dll at base address 0x7ffd60620000 is not a modengine extension
+[2025-02-19 00:16:45.436] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ErdTools.dll
+[2025-02-19 00:16:45.436] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ErdTools.dll at base address 0x7ffd5ef00000 is not a modengine extension
+[2025-02-19 00:16:45.493] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/eldenring_alt_saves.dll
+[2025-02-19 00:16:45.493] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/eldenring_alt_saves.dll at base address 0x7ffd59c40000 is not a modengine extension
+[2025-02-19 00:16:45.545] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/Scripts-Data-Exposer-FS.dll
+[2025-02-19 00:16:45.545] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffd62ac0000 is not a modengine extension
+[2025-02-19 00:16:45.546] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/erdyes.dll
+[2025-02-19 00:16:45.546] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/erdyes.dll at base address 0x7ffd59bc0000 is not a modengine extension
+[2025-02-19 00:16:45.549] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ermerchant.dll
+[2025-02-19 00:16:45.549] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ermerchant.dll at base address 0x7ffd59b40000 is not a modengine extension
+[2025-02-19 00:16:45.550] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/SetCPUAffinity.dll
+[2025-02-19 00:16:45.550] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/SetCPUAffinity.dll at base address 0x7ffd749c0000 is not a modengine extension
+[2025-02-19 00:16:45.550] [modengine] [info] Enabling extension base
+[2025-02-19 00:16:45.550] [modengine] [info] Enabled extension base
+[2025-02-19 00:16:45.550] [modengine] [info] Enabling extension mod_loader
+[2025-02-19 00:16:45.550] [modengine] [info] Installing mod location mod
+[2025-02-19 00:16:45.550] [modengine] [info] Resolved mod path to D:\Elden Ring Mods\CCW 3.5x\mod
+[2025-02-19 00:16:45.550] [modengine] [info] Enabled extension mod_loader
+[2025-02-19 00:16:45.639] [modengine] [info] Applied 4 hooks
+[2025-02-19 00:16:45.642] [modengine] [info] Starting worker thread
+[2025-02-19 04:01:54.168] [modengine] [info] Attempting to load global config at D:\Elden Ring Mods\CCW 3.5x\modengine2\config.toml
+[2025-02-19 04:01:54.168] [modengine] [info] Attempting to load mod settings config at D:\Elden Ring Mods\CCW 3.5x\config_eldenring.toml
+[2025-02-19 04:01:54.168] [modengine] [info] Local config loaded
+[2025-02-19 04:01:54.168] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2025-02-19 04:01:54.168] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-02-19 04:01:54.168] [modengine] [info] Main thread ID: 2192
+[2025-02-19 04:01:54.173] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\SeamlessCoop/ersc.dll
+[2025-02-19 04:01:56.467] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ertransmogrify.dll
+[2025-02-19 04:01:56.467] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ertransmogrify.dll at base address 0x7ffd02790000 is not a modengine extension
+[2025-02-19 04:01:56.468] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ErdTools.dll
+[2025-02-19 04:01:56.468] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ErdTools.dll at base address 0x7ffd749c0000 is not a modengine extension
+[2025-02-19 04:01:56.524] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/eldenring_alt_saves.dll
+[2025-02-19 04:01:56.524] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/eldenring_alt_saves.dll at base address 0x7ffcffd50000 is not a modengine extension
+[2025-02-19 04:01:56.579] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/Scripts-Data-Exposer-FS.dll
+[2025-02-19 04:01:56.579] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/Scripts-Data-Exposer-FS.dll at base address 0x7ffd5ef10000 is not a modengine extension
+[2025-02-19 04:01:56.581] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/erdyes.dll
+[2025-02-19 04:01:56.581] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/erdyes.dll at base address 0x7ffd59bd0000 is not a modengine extension
+[2025-02-19 04:01:56.582] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/ermerchant.dll
+[2025-02-19 04:01:56.582] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/ermerchant.dll at base address 0x7ffd02710000 is not a modengine extension
+[2025-02-19 04:01:56.583] [modengine] [info] Loaded external DLL D:\Elden Ring Mods\CCW 3.5x\mod/SetCPUAffinity.dll
+[2025-02-19 04:01:56.583] [modengine] [warning] External dll D:\Elden Ring Mods\CCW 3.5x\mod/SetCPUAffinity.dll at base address 0x7ffd7d770000 is not a modengine extension
+[2025-02-19 04:01:56.583] [modengine] [info] Enabling extension base
+[2025-02-19 04:01:56.583] [modengine] [info] Enabled extension base
+[2025-02-19 04:01:56.583] [modengine] [info] Enabling extension mod_loader
+[2025-02-19 04:01:56.583] [modengine] [info] Installing mod location mod
+[2025-02-19 04:01:56.583] [modengine] [info] Resolved mod path to D:\Elden Ring Mods\CCW 3.5x\mod
+[2025-02-19 04:01:56.583] [modengine] [info] Enabled extension mod_loader
+[2025-02-19 04:01:56.691] [modengine] [info] Applied 4 hooks
+[2025-02-19 04:01:56.696] [modengine] [info] Starting worker thread

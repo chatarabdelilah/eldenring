@@ -1,0 +1,260 @@
+[2024-07-12 08:19:05.544] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 08:19:05.544] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 08:19:05.550] [modengine] [info] Local config loaded
+[2024-07-12 08:19:05.551] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 08:19:05.551] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 08:19:05.551] [modengine] [info] Main thread ID: 27620
+[2024-07-12 08:19:05.582] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 08:19:05.582] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff47410000 is not a modengine extension
+[2024-07-12 08:19:05.602] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 08:19:05.602] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff486a0000 is not a modengine extension
+[2024-07-12 08:19:05.697] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 08:19:05.697] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff6a8b0000 is not a modengine extension
+[2024-07-12 08:19:05.697] [modengine] [info] Enabling extension base
+[2024-07-12 08:19:05.697] [modengine] [info] Enabled extension base
+[2024-07-12 08:19:05.697] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 08:19:05.697] [modengine] [info] Installing mod location mod
+[2024-07-12 08:19:05.698] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 08:19:05.698] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 08:19:05.747] [modengine] [info] Applied 3 hooks
+[2024-07-12 08:19:05.748] [modengine] [info] Starting worker thread
+[2024-07-12 08:20:15.745] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 08:20:15.745] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 08:20:15.745] [modengine] [info] Local config loaded
+[2024-07-12 08:20:15.745] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 08:20:15.745] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 08:20:15.745] [modengine] [info] Main thread ID: 17500
+[2024-07-12 08:20:15.749] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 08:20:15.750] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff47410000 is not a modengine extension
+[2024-07-12 08:20:15.750] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 08:20:15.750] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff486a0000 is not a modengine extension
+[2024-07-12 08:20:15.837] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 08:20:15.837] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff6a8b0000 is not a modengine extension
+[2024-07-12 08:20:15.837] [modengine] [info] Enabling extension base
+[2024-07-12 08:20:15.837] [modengine] [info] Enabled extension base
+[2024-07-12 08:20:15.837] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 08:20:15.837] [modengine] [info] Installing mod location mod
+[2024-07-12 08:20:15.838] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 08:20:15.838] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 08:20:15.886] [modengine] [info] Applied 3 hooks
+[2024-07-12 08:20:15.887] [modengine] [info] Starting worker thread
+[2024-07-12 10:43:35.831] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 10:43:35.831] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 10:43:35.831] [modengine] [info] Local config loaded
+[2024-07-12 10:43:35.831] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 10:43:35.831] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 10:43:35.831] [modengine] [info] Main thread ID: 23308
+[2024-07-12 10:43:35.835] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 10:43:35.835] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff34fc0000 is not a modengine extension
+[2024-07-12 10:43:35.836] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 10:43:35.836] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff46ba0000 is not a modengine extension
+[2024-07-12 10:43:35.915] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 10:43:35.915] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff46900000 is not a modengine extension
+[2024-07-12 10:43:35.915] [modengine] [info] Enabling extension base
+[2024-07-12 10:43:35.915] [modengine] [info] Enabled extension base
+[2024-07-12 10:43:35.915] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 10:43:35.915] [modengine] [info] Installing mod location mod
+[2024-07-12 10:43:35.915] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 10:43:35.915] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 10:43:35.964] [modengine] [info] Applied 3 hooks
+[2024-07-12 10:43:35.965] [modengine] [info] Starting worker thread
+[2024-07-12 10:45:38.287] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 10:45:38.287] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 10:45:38.287] [modengine] [info] Local config loaded
+[2024-07-12 10:45:38.288] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 10:45:38.288] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 10:45:38.288] [modengine] [info] Main thread ID: 28552
+[2024-07-12 10:45:38.292] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 10:45:38.292] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff34fc0000 is not a modengine extension
+[2024-07-12 10:45:38.293] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 10:45:38.293] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff46ba0000 is not a modengine extension
+[2024-07-12 10:45:38.383] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 10:45:38.383] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff46900000 is not a modengine extension
+[2024-07-12 10:45:38.383] [modengine] [info] Enabling extension base
+[2024-07-12 10:45:38.383] [modengine] [info] Enabled extension base
+[2024-07-12 10:45:38.383] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 10:45:38.384] [modengine] [info] Installing mod location mod
+[2024-07-12 10:45:38.384] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 10:45:38.384] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 10:45:38.440] [modengine] [info] Applied 3 hooks
+[2024-07-12 10:45:38.442] [modengine] [info] Starting worker thread
+[2024-07-12 10:51:00.286] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 10:51:00.286] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 10:51:00.287] [modengine] [info] Local config loaded
+[2024-07-12 10:51:00.287] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 10:51:00.287] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 10:51:00.287] [modengine] [info] Main thread ID: 17432
+[2024-07-12 10:51:00.291] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 10:51:00.291] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff38900000 is not a modengine extension
+[2024-07-12 10:51:00.292] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 10:51:00.292] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff47350000 is not a modengine extension
+[2024-07-12 10:51:00.388] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 10:51:00.388] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff47420000 is not a modengine extension
+[2024-07-12 10:51:00.388] [modengine] [info] Enabling extension base
+[2024-07-12 10:51:00.388] [modengine] [info] Enabled extension base
+[2024-07-12 10:51:00.388] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 10:51:00.388] [modengine] [info] Installing mod location mod
+[2024-07-12 10:51:00.388] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 10:51:00.388] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 10:51:00.439] [modengine] [info] Applied 3 hooks
+[2024-07-12 10:51:00.441] [modengine] [info] Starting worker thread
+[2024-07-12 11:15:35.342] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 11:15:35.342] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 11:15:35.342] [modengine] [info] Local config loaded
+[2024-07-12 11:15:35.342] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 11:15:35.342] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 11:15:35.342] [modengine] [info] Main thread ID: 5292
+[2024-07-12 11:15:35.346] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 11:15:35.346] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fffcc7e0000 is not a modengine extension
+[2024-07-12 11:15:35.347] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 11:15:35.347] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7ffff9c00000 is not a modengine extension
+[2024-07-12 11:15:35.444] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 11:15:35.444] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7ffff0df0000 is not a modengine extension
+[2024-07-12 11:15:35.444] [modengine] [info] Enabling extension base
+[2024-07-12 11:15:35.444] [modengine] [info] Enabled extension base
+[2024-07-12 11:15:35.444] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 11:15:35.444] [modengine] [info] Installing mod location mod
+[2024-07-12 11:15:35.445] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 11:15:35.445] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 11:15:35.495] [modengine] [info] Applied 3 hooks
+[2024-07-12 11:15:35.496] [modengine] [info] Starting worker thread
+[2024-07-12 11:22:28.499] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 11:22:28.499] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 11:22:28.500] [modengine] [info] Local config loaded
+[2024-07-12 11:22:28.500] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 11:22:28.500] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 11:22:28.500] [modengine] [info] Main thread ID: 28412
+[2024-07-12 11:22:28.505] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 11:22:28.505] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fffcc7e0000 is not a modengine extension
+[2024-07-12 11:22:28.505] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 11:22:28.505] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7ffff9c00000 is not a modengine extension
+[2024-07-12 11:22:28.592] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 11:22:28.592] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7ffff0df0000 is not a modengine extension
+[2024-07-12 11:22:28.592] [modengine] [info] Enabling extension base
+[2024-07-12 11:22:28.592] [modengine] [info] Enabled extension base
+[2024-07-12 11:22:28.592] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 11:22:28.592] [modengine] [info] Installing mod location mod
+[2024-07-12 11:22:28.592] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 11:22:28.592] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 11:22:28.642] [modengine] [info] Applied 3 hooks
+[2024-07-12 11:22:28.643] [modengine] [info] Starting worker thread
+[2024-07-12 12:17:09.473] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 12:17:09.473] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 12:17:09.473] [modengine] [info] Local config loaded
+[2024-07-12 12:17:09.473] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:17:09.473] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:17:09.473] [modengine] [info] Main thread ID: 25724
+[2024-07-12 12:17:09.477] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 12:17:09.477] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff38900000 is not a modengine extension
+[2024-07-12 12:17:09.478] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 12:17:09.478] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff48240000 is not a modengine extension
+[2024-07-12 12:17:09.570] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 12:17:09.570] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff48670000 is not a modengine extension
+[2024-07-12 12:17:09.570] [modengine] [info] Enabling extension base
+[2024-07-12 12:17:09.570] [modengine] [info] Enabled extension base
+[2024-07-12 12:17:09.570] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:17:09.571] [modengine] [info] Installing mod location mod
+[2024-07-12 12:17:09.571] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 12:17:09.571] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:17:09.620] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:17:09.622] [modengine] [info] Starting worker thread
+[2024-07-12 12:22:03.815] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 12:22:03.816] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 12:22:03.816] [modengine] [info] Local config loaded
+[2024-07-12 12:22:03.816] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:22:03.816] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:22:03.816] [modengine] [info] Main thread ID: 15528
+[2024-07-12 12:22:03.820] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 12:22:03.820] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fffb42b0000 is not a modengine extension
+[2024-07-12 12:22:03.821] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 12:22:03.821] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fffc2880000 is not a modengine extension
+[2024-07-12 12:22:03.925] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 12:22:03.926] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fffb4290000 is not a modengine extension
+[2024-07-12 12:22:03.926] [modengine] [info] Enabling extension base
+[2024-07-12 12:22:03.926] [modengine] [info] Enabled extension base
+[2024-07-12 12:22:03.926] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:22:03.926] [modengine] [info] Installing mod location mod
+[2024-07-12 12:22:03.926] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 12:22:03.926] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:22:03.978] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:22:03.980] [modengine] [info] Starting worker thread
+[2024-07-12 12:26:51.718] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 12:26:51.718] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 12:26:51.719] [modengine] [info] Local config loaded
+[2024-07-12 12:26:51.719] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:26:51.719] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:26:51.719] [modengine] [info] Main thread ID: 25036
+[2024-07-12 12:26:51.723] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 12:26:51.723] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff474f0000 is not a modengine extension
+[2024-07-12 12:26:51.724] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 12:26:51.724] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff6a8e0000 is not a modengine extension
+[2024-07-12 12:26:51.836] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 12:26:51.836] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff6ab70000 is not a modengine extension
+[2024-07-12 12:26:51.836] [modengine] [info] Enabling extension base
+[2024-07-12 12:26:51.836] [modengine] [info] Enabled extension base
+[2024-07-12 12:26:51.836] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:26:51.836] [modengine] [info] Installing mod location mod
+[2024-07-12 12:26:51.836] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 12:26:51.836] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:26:51.890] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:26:51.892] [modengine] [info] Starting worker thread
+[2024-07-12 12:29:03.680] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 12:29:03.680] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 12:29:03.680] [modengine] [info] Local config loaded
+[2024-07-12 12:29:03.681] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:29:03.681] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:29:03.681] [modengine] [info] Main thread ID: 7940
+[2024-07-12 12:29:03.685] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 12:29:03.685] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff473e0000 is not a modengine extension
+[2024-07-12 12:29:03.685] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 12:29:03.685] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff6a8e0000 is not a modengine extension
+[2024-07-12 12:29:03.779] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 12:29:03.779] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff4ded0000 is not a modengine extension
+[2024-07-12 12:29:03.779] [modengine] [info] Enabling extension base
+[2024-07-12 12:29:03.779] [modengine] [info] Enabled extension base
+[2024-07-12 12:29:03.779] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:29:03.779] [modengine] [info] Installing mod location mod
+[2024-07-12 12:29:03.779] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 12:29:03.779] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:29:03.828] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:29:03.830] [modengine] [info] Starting worker thread
+[2024-07-12 12:58:05.302] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 12:58:05.302] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 12:58:05.302] [modengine] [info] Local config loaded
+[2024-07-12 12:58:05.302] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:58:05.302] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:58:05.302] [modengine] [info] Main thread ID: 20156
+[2024-07-12 12:58:05.306] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 12:58:05.306] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff38a10000 is not a modengine extension
+[2024-07-12 12:58:05.307] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 12:58:05.307] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff95eb0000 is not a modengine extension
+[2024-07-12 12:58:05.407] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 12:58:05.407] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff4ded0000 is not a modengine extension
+[2024-07-12 12:58:05.407] [modengine] [info] Enabling extension base
+[2024-07-12 12:58:05.407] [modengine] [info] Enabled extension base
+[2024-07-12 12:58:05.407] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:58:05.407] [modengine] [info] Installing mod location mod
+[2024-07-12 12:58:05.407] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 12:58:05.407] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:58:05.461] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:58:05.463] [modengine] [info] Starting worker thread
+[2024-07-12 13:14:49.039] [modengine] [info] Attempting to load global config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\modengine2\config.toml
+[2024-07-12 13:14:49.039] [modengine] [info] Attempting to load mod settings config at C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\config_eldenring.toml
+[2024-07-12 13:14:49.039] [modengine] [info] Local config loaded
+[2024-07-12 13:14:49.039] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 13:14:49.039] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 13:14:49.039] [modengine] [info] Main thread ID: 17332
+[2024-07-12 13:14:49.044] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll
+[2024-07-12 13:14:49.044] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ertransmogrify.dll at base address 0x7fff48640000 is not a modengine extension
+[2024-07-12 13:14:49.044] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll
+[2024-07-12 13:14:49.044] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\ErdTools.dll at base address 0x7fff6a8e0000 is not a modengine extension
+[2024-07-12 13:14:49.151] [modengine] [info] Loaded external DLL C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll
+[2024-07-12 13:14:49.151] [modengine] [warning] External dll C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\Scripts-Data-Exposer-FS.dll at base address 0x7fff6a8c0000 is not a modengine extension
+[2024-07-12 13:14:49.151] [modengine] [info] Enabling extension base
+[2024-07-12 13:14:49.151] [modengine] [info] Enabled extension base
+[2024-07-12 13:14:49.151] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 13:14:49.151] [modengine] [info] Installing mod location mod
+[2024-07-12 13:14:49.151] [modengine] [info] Resolved mod path to C:\Users\CouchJockey\Documents\GitHub\ConvergenceER\mod
+[2024-07-12 13:14:49.151] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 13:14:49.202] [modengine] [info] Applied 3 hooks
+[2024-07-12 13:14:49.205] [modengine] [info] Starting worker thread

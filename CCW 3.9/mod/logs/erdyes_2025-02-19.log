@@ -1,0 +1,49 @@
+[2025-02-19 00:16:26.162] [dyes] [info] Armor dye mod version 1.0.2
+[2025-02-19 00:16:26.162] [dyes] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\erdyes.ini
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Mountaintop White = #f9fffe"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Stormhill Gray = #9d9d97"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Vagabond Steel = #474f52"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Deathbed Atrous = #1d1d21"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Crucible Bronze = #835432"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Crimson Amber = #b02e26"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Roiling Magma = #f9801d"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Xanthous Frenzy = #fed83d"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Toxic Chartreuse = #80c71f"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Cave Moss Green = #5e7c16"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Cerulean Amber = #169c9c"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Primeval Blue = #3c44aa"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Violet Void = #8932b8"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Madding Magenta = #c74ebd"
+[2025-02-19 00:16:26.163] [dyes] [info] Added color definition "Putrid Pink = #f38baa"
+[2025-02-19 00:16:26.163] [dyes] [info] Added 15 colors
+[2025-02-19 00:16:26.163] [dyes] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-19 00:16:26.164] [dyes] [info] Waiting for params...
+[2025-02-19 00:16:26.326] [dyes] [info] Deinitialized mod
+[2025-02-19 04:01:56.580] [dyes] [info] Armor dye mod version 1.0.2
+[2025-02-19 04:01:56.580] [dyes] [info] Loading config from D:\Elden Ring Mods\CCW 3.5x\mod\erdyes.ini
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Mountaintop White = #f9fffe"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Stormhill Gray = #9d9d97"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Vagabond Steel = #474f52"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Deathbed Atrous = #1d1d21"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Crucible Bronze = #835432"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Crimson Amber = #b02e26"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Roiling Magma = #f9801d"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Xanthous Frenzy = #fed83d"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Toxic Chartreuse = #80c71f"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Cave Moss Green = #5e7c16"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Cerulean Amber = #169c9c"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Primeval Blue = #3c44aa"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Violet Void = #8932b8"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Madding Magenta = #c74ebd"
+[2025-02-19 04:01:56.581] [dyes] [info] Added color definition "Putrid Pink = #f38baa"
+[2025-02-19 04:01:56.581] [dyes] [info] Added 15 colors
+[2025-02-19 04:01:56.581] [dyes] [info] Found handle for eldenring.exe process: D:\SteamLibrary\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2025-02-19 04:01:56.582] [dyes] [info] Waiting for params...
+[2025-02-19 04:02:08.585] [dyes] [info] Sleeping for 8000ms...
+[2025-02-19 04:02:16.586] [dyes] [info] Hooking messages...
+[2025-02-19 04:02:16.586] [dyes] [info] Waiting for messages...
+[2025-02-19 04:02:16.587] [dyes] [info] Detected language "english"
+[2025-02-19 04:02:16.589] [dyes] [info] Hooking talkscripts...
+[2025-02-19 04:02:16.641] [dyes] [info] Initialized mod
+[2025-02-19 04:02:40.480] [dyes] [info] Patching state group x31
+[2025-02-19 04:05:17.980] [dyes] [info] Deinitialized mod
