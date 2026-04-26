@@ -1,0 +1,23 @@
+[2026-04-26 03:19:18.082] [modengine] [info] Attempting to load global config at C:\Users\chata\Desktop\ModEngine\modengine2\config.toml
+[2026-04-26 03:19:18.082] [modengine] [info] Attempting to load mod settings config at C:\Users\chata\Desktop\ModEngine\config_eldenring.toml
+[2026-04-26 03:19:18.088] [modengine] [info] Local config loaded
+[2026-04-26 03:19:18.088] [modengine] [info] ModEngine version 2.1.0-2440fc717d61eaee1549a9fc94e3109e6c016275 initializing for Elden Ring
+[2026-04-26 03:19:18.088] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-04-26 03:19:18.088] [modengine] [info] Main thread ID: 60024
+[2026-04-26 03:19:19.920] [modengine] [info] Loaded external DLL C:\Users\chata\Desktop\ModEngine\SeamlessCoop/ersc.dll
+[2026-04-26 03:19:21.610] [modengine] [info] Loaded external DLL C:\Users\chata\Desktop\ModEngine\mod/ertransmogrify.dll
+[2026-04-26 03:19:21.610] [modengine] [warning] External dll C:\Users\chata\Desktop\ModEngine\mod/ertransmogrify.dll at base address 0x7ffbdaf20000 is not a modengine extension
+[2026-04-26 03:19:21.701] [modengine] [info] Loaded external DLL C:\Users\chata\Desktop\ModEngine\mod/eldenring_alt_saves.dll
+[2026-04-26 03:19:21.701] [modengine] [warning] External dll C:\Users\chata\Desktop\ModEngine\mod/eldenring_alt_saves.dll at base address 0x7ffbaf710000 is not a modengine extension
+[2026-04-26 03:19:21.719] [modengine] [info] Loaded external DLL C:\Users\chata\Desktop\ModEngine\mod/ErdTools.dll
+[2026-04-26 03:19:21.719] [modengine] [warning] External dll C:\Users\chata\Desktop\ModEngine\mod/ErdTools.dll at base address 0x7ffc3ca30000 is not a modengine extension
+[2026-04-26 03:19:21.746] [modengine] [info] Loaded external DLL C:\Users\chata\Desktop\ModEngine\mod/ermerchant.dll
+[2026-04-26 03:19:21.746] [modengine] [warning] External dll C:\Users\chata\Desktop\ModEngine\mod/ermerchant.dll at base address 0x7ffbafaf0000 is not a modengine extension
+[2026-04-26 03:19:21.746] [modengine] [info] Enabling extension base
+[2026-04-26 03:19:21.746] [modengine] [info] Enabled extension base
+[2026-04-26 03:19:21.746] [modengine] [info] Enabling extension mod_loader
+[2026-04-26 03:19:21.746] [modengine] [info] Installing mod location mod
+[2026-04-26 03:19:21.746] [modengine] [info] Resolved mod path to C:\Users\chata\Desktop\ModEngine\mod
+[2026-04-26 03:19:21.746] [modengine] [info] Enabled extension mod_loader
+[2026-04-26 03:19:21.806] [modengine] [info] Applied 4 hooks
+[2026-04-26 03:19:21.809] [modengine] [info] Starting worker thread
